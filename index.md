@@ -4,6 +4,6 @@
 
 ### 订阅地址
 
-···
+```
 https://misakanode.cf/sub.txt
-···
+```
