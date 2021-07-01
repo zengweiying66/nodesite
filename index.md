@@ -4,11 +4,11 @@
 
 ### 订阅地址
 
-```javascript
-// V2ray订阅
+```
+V2ray订阅
 https://misakanode.cf/sub.txt
 
-// Clash订阅
+Clash订阅
 https://misakanode.cf/sub.yaml
 ```
 
