@@ -4,8 +4,12 @@
 
 ### 订阅地址
 
-```
+```javascript
+// V2ray订阅
 https://misakanode.cf/sub.txt
+
+// Clash订阅
+https://misakanode.cf/sub.yaml
 ```
 
 ## 注意事项
