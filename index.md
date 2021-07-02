@@ -16,3 +16,8 @@ https://misakanode.cf/sub.yaml
 
 1. 使用节点的时候，请您遵守中国和欧洲法律
 2. 免费节点不保证可用性，如你需要稳定高质量节点，请左转付费机场
+
+# TG频道和群组
+
+频道：[@misakanodailylife](https://t.me/misakanodailylife)
+群组：[@misakanetworkgroup](https://t.me/misakanetworkgroup)
