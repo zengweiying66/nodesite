@@ -2,15 +2,35 @@
 
 此节点来自Heroku IE和CF自选ip优化，为了防失联设计
 
-### 订阅地址
+## 订阅地址
 
-```
+
 V2ray订阅
+```
 https://misakanode.cf/sub.txt
+```
 
 Clash订阅
+```
 https://misakanode.cf/sub.yaml
 ```
+
+## 软件下载
+
+#### Windows
+
+[v2rayn](https://misakanode.cf/v2rayN-Core.zip)
+
+[clash for windows x64](https://misakanode.cf/Clash.for.Windows.Setup.0.15.0.exe)
+
+[clash for windows x86](https://misakanode.cf/Clash.for.Windows.Setup.0.15.0.ia32.exe)
+
+#### Android
+
+[clash for android](https://misakanode.cf/app-premium-universal-release.apk)
+
+[v2rayng](https://misakanode.cf/v2rayNG_1.6.13_arm64-v8a.apk)
+
 
 ## 注意事项
 
@@ -20,4 +40,5 @@ https://misakanode.cf/sub.yaml
 # TG频道和群组
 
 频道：[@misakanodailylife](https://t.me/misakanodailylife)
+
 群组：[@misakanetworkgroup](https://t.me/misakanetworkgroup)
