@@ -12,7 +12,7 @@ https://misakanode.cf/sub.txt
 
 Clash订阅
 ```
-https://misakanode.cf/sub.yaml
+https://misakanode.cf/Clash.yml
 ```
 
 ## 软件下载
