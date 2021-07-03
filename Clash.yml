@@ -38,6 +38,17 @@ proxies:
   - {name: Heroku-IE 13, server: 104.16.0.217, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
   - {name: Heroku-IE 14, server: 104.16.0.129, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
   - {name: Heroku-IE 15, server: 104.16.0.60, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
+  - {name: 🇨🇳 台湾, server: 211.23.132.124, port: 9233, type: vmess, uuid: be58f4e4-894a-47ee-8836-cf75e74fa9c9, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 211.23.132.124}}
+  - {name: 🇯🇵 日本, server: 54.223.185.171, port: 8002, type: vmess, uuid: 83c18473-68f5-4c6e-8f3b-728abd2f04df, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.223.185.171}}
+  - {name: 🇯🇵 日本 2, server: 54.223.185.171, port: 8002, type: vmess, uuid: 4a0825d3-0f32-4fec-a7fd-ba851e36e091, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.223.185.171}}
+  - {name: 🇺🇸 美国, server: 4733.ddns.inli.cloud, port: 30504, type: vmess, uuid: 9afbb703-c486-39b1-9cd6-abdd430973e9, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: virt.tnty.xyz}}
+  - {name: 🇺🇸 美国 2, server: 4733.ddns.inli.cloud, port: 30504, type: vmess, uuid: 9afbb703-c486-39b1-9cd6-abdd430973e9, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 4733.ddns.inli.cloud}}
+  - {name: 🇯🇵 日本 3, server: 54.223.185.171, port: 8001, type: vmess, uuid: 83c18473-68f5-4c6e-8f3b-728abd2f04df, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.223.185.171}}
+  - {name: 🇯🇵 日本 4, server: 54.223.185.171, port: 8001, type: vmess, uuid: 4a0825d3-0f32-4fec-a7fd-ba851e36e091, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.223.185.171}}
+  - {name: 🇭🇰 香港, server: 54.223.185.171, port: 8002, type: vmess, uuid: bb511347-6ed5-475c-9ffe-ac7268fdf351, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.223.185.171}}
+  - {name: 🇭🇰 香港 2, server: 54.223.185.171, port: 8003, type: vmess, uuid: e854d8f1-f0f7-40fe-a77d-345cf7a78e05, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.223.185.171}}
+  - {name: 🇭🇰 香港 3, server: 54.223.185.171, port: 8001, type: vmess, uuid: bb511347-6ed5-475c-9ffe-ac7268fdf351, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: baidu.com}}
+  - {name: 🇭🇰 香港 4, server: 54.223.185.171, port: 8002, type: vmess, uuid: bb511347-6ed5-475c-9ffe-ac7268fdf351, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.223.185.171}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -77,6 +88,17 @@ proxy-groups:
       - Heroku-IE 13
       - Heroku-IE 14
       - Heroku-IE 15
+      - 🇨🇳 台湾
+      - 🇯🇵 日本
+      - 🇯🇵 日本 2
+      - 🇺🇸 美国
+      - 🇺🇸 美国 2
+      - 🇯🇵 日本 3
+      - 🇯🇵 日本 4
+      - 🇭🇰 香港
+      - 🇭🇰 香港 2
+      - 🇭🇰 香港 3
+      - 🇭🇰 香港 4
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -116,6 +138,17 @@ proxy-groups:
       - Heroku-IE 13
       - Heroku-IE 14
       - Heroku-IE 15
+      - 🇨🇳 台湾
+      - 🇯🇵 日本
+      - 🇯🇵 日本 2
+      - 🇺🇸 美国
+      - 🇺🇸 美国 2
+      - 🇯🇵 日本 3
+      - 🇯🇵 日本 4
+      - 🇭🇰 香港
+      - 🇭🇰 香港 2
+      - 🇭🇰 香港 3
+      - 🇭🇰 香港 4
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -155,6 +188,17 @@ proxy-groups:
       - Heroku-IE 13
       - Heroku-IE 14
       - Heroku-IE 15
+      - 🇨🇳 台湾
+      - 🇯🇵 日本
+      - 🇯🇵 日本 2
+      - 🇺🇸 美国
+      - 🇺🇸 美国 2
+      - 🇯🇵 日本 3
+      - 🇯🇵 日本 4
+      - 🇭🇰 香港
+      - 🇭🇰 香港 2
+      - 🇭🇰 香港 3
+      - 🇭🇰 香港 4
   - name: 📲 电报信息
     type: select
     proxies:
@@ -193,6 +237,17 @@ proxy-groups:
       - Heroku-IE 13
       - Heroku-IE 14
       - Heroku-IE 15
+      - 🇨🇳 台湾
+      - 🇯🇵 日本
+      - 🇯🇵 日本 2
+      - 🇺🇸 美国
+      - 🇺🇸 美国 2
+      - 🇯🇵 日本 3
+      - 🇯🇵 日本 4
+      - 🇭🇰 香港
+      - 🇭🇰 香港 2
+      - 🇭🇰 香港 3
+      - 🇭🇰 香港 4
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -231,6 +286,17 @@ proxy-groups:
       - Heroku-IE 13
       - Heroku-IE 14
       - Heroku-IE 15
+      - 🇨🇳 台湾
+      - 🇯🇵 日本
+      - 🇯🇵 日本 2
+      - 🇺🇸 美国
+      - 🇺🇸 美国 2
+      - 🇯🇵 日本 3
+      - 🇯🇵 日本 4
+      - 🇭🇰 香港
+      - 🇭🇰 香港 2
+      - 🇭🇰 香港 3
+      - 🇭🇰 香港 4
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -269,6 +335,17 @@ proxy-groups:
       - Heroku-IE 13
       - Heroku-IE 14
       - Heroku-IE 15
+      - 🇨🇳 台湾
+      - 🇯🇵 日本
+      - 🇯🇵 日本 2
+      - 🇺🇸 美国
+      - 🇺🇸 美国 2
+      - 🇯🇵 日本 3
+      - 🇯🇵 日本 4
+      - 🇭🇰 香港
+      - 🇭🇰 香港 2
+      - 🇭🇰 香港 3
+      - 🇭🇰 香港 4
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -308,6 +385,17 @@ proxy-groups:
       - Heroku-IE 13
       - Heroku-IE 14
       - Heroku-IE 15
+      - 🇨🇳 台湾
+      - 🇯🇵 日本
+      - 🇯🇵 日本 2
+      - 🇺🇸 美国
+      - 🇺🇸 美国 2
+      - 🇯🇵 日本 3
+      - 🇯🇵 日本 4
+      - 🇭🇰 香港
+      - 🇭🇰 香港 2
+      - 🇭🇰 香港 3
+      - 🇭🇰 香港 4
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -363,6 +451,17 @@ proxy-groups:
       - Heroku-IE 13
       - Heroku-IE 14
       - Heroku-IE 15
+      - 🇨🇳 台湾
+      - 🇯🇵 日本
+      - 🇯🇵 日本 2
+      - 🇺🇸 美国
+      - 🇺🇸 美国 2
+      - 🇯🇵 日本 3
+      - 🇯🇵 日本 4
+      - 🇭🇰 香港
+      - 🇭🇰 香港 2
+      - 🇭🇰 香港 3
+      - 🇭🇰 香港 4
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
