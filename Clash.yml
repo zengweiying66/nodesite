@@ -49,6 +49,18 @@ proxies:
   - {name: 香港 2, server: 54.223.185.171, port: 8003, type: vmess, uuid: e854d8f1-f0f7-40fe-a77d-345cf7a78e05, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 54.223.185.171}}
   - {name: 香港 3, server: 54.223.185.171, port: 8001, type: vmess, uuid: bb511347-6ed5-475c-9ffe-ac7268fdf351, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: baidu.com}}
   - {name: 香港 4, server: 54.223.185.171, port: 8002, type: vmess, uuid: bb511347-6ed5-475c-9ffe-ac7268fdf351, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 54.223.185.171}}
+  - {name: 美国加利福尼亚州洛杉矶DMIT数据中心 5, server: 154.17.2.149, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 美国加利福尼亚州洛杉矶DMIT数据中心 6, server: 154.17.2.160, port: 18333, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 美国加利福尼亚州洛杉矶DMIT数据中心 9, server: 154.17.5.133, port: 18331, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 美国加利福尼亚州洛杉矶DMIT数据中心 10, server: 154.17.2.112, port: 18335, type: ss, cipher: chacha20-ietf-poly1305, password: N0KSFR6alSxjgp7T8Aa9Ce8DnCaAOYqz5lFZxe3O2I3uycYZXEDp3S34RyCDwB}
+  - {name: 美国加利福尼亚州洛杉矶DMIT数据中心 11, server: 154.17.2.153, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 美国加利福尼亚州洛杉矶DMIT数据中心 13, server: 154.17.2.117, port: 18333, type: ss, cipher: chacha20-ietf-poly1305, password: 2SYSIDnBqT5eCl736xlD4yODaXaSF9EeNp3OZcpjyC8ARYwA0zgC83aKxFZRu3}
+  - {name: 美国加利福尼亚州洛杉矶DMIT数据中心 14, server: 154.17.5.184, port: 18331, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 美国加利福尼亚州洛杉矶DMIT数据中心 15, server: 154.17.1.245, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 美国加利福尼亚州洛杉矶DMIT数据中心 20, server: 154.17.2.109, port: 18335, type: ss, cipher: chacha20-ietf-poly1305, password: l3Y9yKCBaT5SnpFFOe834yqIaXwSpRxz3l7D3Aua82ZgcSNZDCO6AexYDCE0Rj}
+  - {name: 荷兰  22, server: 46.182.107.46, port: 443, type: vmess, uuid: fe5f69e7-e183-439b-950b-8221ef0651f2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.27430248.xyz}}
+  - {name: 荷兰  23, server: 46.182.107.39, port: 443, type: vmess, uuid: d3133484-f2bf-4b0c-8d38-f8e645b67947, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.49696760.xyz}}
+  - {name: 台湾省中华电信(HiNet)数据中心 25, server: 211.23.132.124, port: 9233, type: vmess, uuid: be58f4e4-894a-47ee-8836-cf75e74fa9c9, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 211.23.132.124}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -99,6 +111,18 @@ proxy-groups:
       - 香港 2
       - 香港 3
       - 香港 4
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 5
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 6
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 9
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 10
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 11
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 13
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 14
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 15
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 20
+      - 荷兰  22
+      - 荷兰  23
+      - 台湾省中华电信(HiNet)数据中心 25
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -149,6 +173,18 @@ proxy-groups:
       - 香港 2
       - 香港 3
       - 香港 4
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 5
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 6
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 9
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 10
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 11
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 13
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 14
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 15
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 20
+      - 荷兰  22
+      - 荷兰  23
+      - 台湾省中华电信(HiNet)数据中心 25
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -199,6 +235,18 @@ proxy-groups:
       - 香港 2
       - 香港 3
       - 香港 4
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 5
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 6
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 9
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 10
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 11
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 13
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 14
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 15
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 20
+      - 荷兰  22
+      - 荷兰  23
+      - 台湾省中华电信(HiNet)数据中心 25
   - name: 📲 电报信息
     type: select
     proxies:
@@ -248,6 +296,18 @@ proxy-groups:
       - 香港 2
       - 香港 3
       - 香港 4
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 5
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 6
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 9
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 10
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 11
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 13
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 14
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 15
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 20
+      - 荷兰  22
+      - 荷兰  23
+      - 台湾省中华电信(HiNet)数据中心 25
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -297,6 +357,18 @@ proxy-groups:
       - 香港 2
       - 香港 3
       - 香港 4
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 5
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 6
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 9
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 10
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 11
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 13
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 14
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 15
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 20
+      - 荷兰  22
+      - 荷兰  23
+      - 台湾省中华电信(HiNet)数据中心 25
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -346,6 +418,18 @@ proxy-groups:
       - 香港 2
       - 香港 3
       - 香港 4
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 5
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 6
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 9
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 10
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 11
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 13
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 14
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 15
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 20
+      - 荷兰  22
+      - 荷兰  23
+      - 台湾省中华电信(HiNet)数据中心 25
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -396,6 +480,18 @@ proxy-groups:
       - 香港 2
       - 香港 3
       - 香港 4
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 5
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 6
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 9
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 10
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 11
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 13
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 14
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 15
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 20
+      - 荷兰  22
+      - 荷兰  23
+      - 台湾省中华电信(HiNet)数据中心 25
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -462,6 +558,18 @@ proxy-groups:
       - 香港 2
       - 香港 3
       - 香港 4
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 5
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 6
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 9
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 10
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 11
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 13
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 14
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 15
+      - 美国加利福尼亚州洛杉矶DMIT数据中心 20
+      - 荷兰  22
+      - 荷兰  23
+      - 台湾省中华电信(HiNet)数据中心 25
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
