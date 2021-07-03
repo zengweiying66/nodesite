@@ -21,17 +21,17 @@ https://misakanode.cf/Clash.yml
 
 #### Windows
 
-[v2rayn](https://misakanode.cf/v2rayN-Core.zip)
+[v2rayn](https://misakanode.cf/v2ray/v2rayN-Core.zip)
 
-[clash for windows x64](https://misakanode.cf/Clash.for.Windows.Setup.0.15.0.exe)
+[clash for windows x64](https://misakanode.cf/clash/Clash.for.Windows.Setup.0.15.0.exe)
 
-[clash for windows x86](https://misakanode.cf/Clash.for.Windows.Setup.0.15.0.ia32.exe)
+[clash for windows x86](https://misakanode.cf/clash/Clash.for.Windows.Setup.0.15.0.ia32.exe)
 
 #### Android
 
-[clash for android](https://misakanode.cf/app-premium-universal-release.apk)
+[clash for android](https://misakanode.cf/clash/app-premium-universal-release.apk)
 
-[v2rayng](https://misakanode.cf/v2rayNG_1.6.13_arm64-v8a.apk)
+[v2rayng](https://misakanode.cf/v2ray/v2rayNG_1.6.13_arm64-v8a.apk)
 
 
 ## 注意事项
