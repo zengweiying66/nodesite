@@ -56,6 +56,11 @@ proxies:
   - {name: 🇨🇳 台湾, server: 82.102.26.117, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
   - {name: 🇺🇲 美国 10, server: 167.99.192.30, port: 3567, type: ss, cipher: chacha20-ietf-poly1305, password: HGBdOKdcIer5}
   - {name: 🇺🇲 美国 11, server: 207.244.67.149, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇸🇬 新加坡, server: sg2.v2-ray.com, port: 443, type: vmess, uuid: dce4c472-6f3f-4c45-80e5-cbfe5ecad7ee, alterId: 32, cipher: auto, tls: true, network: ws, ws-path: "/fastssh?u=ak474849&p=60e13c0d67d84&", ws-headers: {Host: sg2.v2-ray.com}}
+  - {name: 🇸🇬 新加坡 2, server: sg4.v2-ray.com, port: 443, type: vmess, uuid: 16ceca7e-d27b-4b0d-acd7-a1d70e278be8, alterId: 32, cipher: auto, tls: true, network: ws, ws-path: "/fastssh?u=ak474849&p=60e13d089f1ac&", ws-headers: {Host: sg4.v2-ray.com}}
+  - {name: 🇳🇱 荷兰 2, server: nl.v2-ray.com, port: 443, type: vmess, uuid: bffe4583-651a-4295-8fb2-a7254481bd5f, alterId: 32, cipher: auto, tls: true, network: ws, ws-path: "/fastssh?u=ak474849&p=60e13e8dcfc75&", ws-headers: {Host: nl.v2-ray.com}}
+  - {name: 🇬🇧 英国, server: uk.v2-ray.com, port: 443, type: vmess, uuid: 7e469642-55ae-4387-8a48-d2eaf12e0dbb, alterId: 32, cipher: auto, tls: true, network: ws, ws-path: "/fastssh?u=ak474849&p=60e13ecc569c2&", ws-headers: {Host: uk.v2-ray.com}}
+  - {name: 🇺🇲 美国 12, server: usa2.v2-ray.com, port: 443, type: vmess, uuid: c583d215-a1e9-4139-9435-5ce03915dd5f, alterId: 32, cipher: auto, tls: true, network: ws, ws-path: "/fastssh?u=ak474849&p=60e13f3e718f1&", ws-headers: {Host: usa2.v2-ray.com}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -113,6 +118,11 @@ proxy-groups:
       - 🇨🇳 台湾
       - 🇺🇲 美国 10
       - 🇺🇲 美国 11
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇳🇱 荷兰 2
+      - 🇬🇧 英国
+      - 🇺🇲 美国 12
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -170,6 +180,11 @@ proxy-groups:
       - 🇨🇳 台湾
       - 🇺🇲 美国 10
       - 🇺🇲 美国 11
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇳🇱 荷兰 2
+      - 🇬🇧 英国
+      - 🇺🇲 美国 12
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -227,6 +242,11 @@ proxy-groups:
       - 🇨🇳 台湾
       - 🇺🇲 美国 10
       - 🇺🇲 美国 11
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇳🇱 荷兰 2
+      - 🇬🇧 英国
+      - 🇺🇲 美国 12
   - name: 📲 电报信息
     type: select
     proxies:
@@ -283,6 +303,11 @@ proxy-groups:
       - 🇨🇳 台湾
       - 🇺🇲 美国 10
       - 🇺🇲 美国 11
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇳🇱 荷兰 2
+      - 🇬🇧 英国
+      - 🇺🇲 美国 12
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -339,6 +364,11 @@ proxy-groups:
       - 🇨🇳 台湾
       - 🇺🇲 美国 10
       - 🇺🇲 美国 11
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇳🇱 荷兰 2
+      - 🇬🇧 英国
+      - 🇺🇲 美国 12
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -395,6 +425,11 @@ proxy-groups:
       - 🇨🇳 台湾
       - 🇺🇲 美国 10
       - 🇺🇲 美国 11
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇳🇱 荷兰 2
+      - 🇬🇧 英国
+      - 🇺🇲 美国 12
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -452,6 +487,11 @@ proxy-groups:
       - 🇨🇳 台湾
       - 🇺🇲 美国 10
       - 🇺🇲 美国 11
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇳🇱 荷兰 2
+      - 🇬🇧 英国
+      - 🇺🇲 美国 12
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -525,6 +565,11 @@ proxy-groups:
       - 🇨🇳 台湾
       - 🇺🇲 美国 10
       - 🇺🇲 美国 11
+      - 🇸🇬 新加坡
+      - 🇸🇬 新加坡 2
+      - 🇳🇱 荷兰 2
+      - 🇬🇧 英国
+      - 🇺🇲 美国 12
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
