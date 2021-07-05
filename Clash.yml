@@ -8,12 +8,12 @@ proxies:
   - {name: 网站：https://misakanode.cf, server: misakanode.cf, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
   - {name: 🇸🇬 如遇节点失效，请更新订阅, server: misakanode.cf, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
   - {name: "🇨🇳 TG: https://t.me/misakanetworkgroup", server: misakanode.cf, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: 🇺🇲 Heroku-US 1, server: 104.19.56.141, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: 🇺🇲 Heroku-US 2, server: www.who.int, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: 🇺🇲 Heroku-US 3, server: 104.19.56.153, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
+  - {name: 🇺🇲 Heroku-US 1, server: 104.19.81.86, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
+  - {name: 🇺🇲 Heroku-US 2, server: 104.19.73.27, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
+  - {name: 🇺🇲 Heroku-US 3, server: 104.21.89.110, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
   - {name: 🇺🇲 Heroku-US 4, server: irving021.top, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
   - {name: 🇺🇲 Heroku-US 5, server: 104.17.195.149, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: 🇺🇲 Heroku-US 6, server: 104.19.69.135, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
+  - {name: 🇺🇲 Heroku-US 6, server: 172.67.85.37, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
   - {name: 🇺🇲 Heroku-US 7, server: 104.19.69.148, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
   - {name: 🇺🇲 Heroku-US 8, server: 104.19.69.116, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
   - {name: 🇺🇲 Heroku-US 9, server: 104.19.69.237, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
@@ -24,10 +24,10 @@ proxies:
   - {name: 🇺🇲 Heroku-US 14, server: 104.16.156.206, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
   - {name: 🇺🇲 Heroku-US 15, server: 104.16.156.183, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
   - {name: Heroku-IE 1, server: 104.19.36.142, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 2, server: www.who.int, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
+  - {name: Heroku-IE 2, server: 104.21.67.245, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
   - {name: Heroku-IE 3, server: 104.19.36.49, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
   - {name: Heroku-IE 4, server: irving021.top, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 5, server: www.vultr.com, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
+  - {name: Heroku-IE 5, server: 172.67.140.217, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
   - {name: Heroku-IE 6, server: 104.19.69.172, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
   - {name: Heroku-IE 7, server: 104.19.69.191, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
   - {name: Heroku-IE 8, server: 104.19.69.255, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
@@ -37,21 +37,18 @@ proxies:
   - {name: Heroku-IE 12, server: 104.16.156.164, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
   - {name: Heroku-IE 13, server: 104.16.156.128, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
   - {name: Heroku-IE 14, server: 104.16.156.205, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 15, server: 104.16.156.116, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: 🇺🇲 美国, server: ping.pe, port: 443, type: vmess, uuid: 3a3e263d-223f-49cc-bbdb-f7e07a55e6fe, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /111111.online, ws-headers: {Host: by.6111.online}}
-  - {name: 🇷🇺 俄罗斯, server: 85.117.234.184, port: 19303, type: vmess, uuid: c3806abf-afaf-4ed1-8f7e-41a7ecdbb4e3, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇲 美国 2, server: 198.8.92.84, port: 44945, type: ss, cipher: aes-256-gcm, password: F5bKkb9ggkLx4JbQrbLn7LjZ}
-  - {name: 🇳🇱 荷兰, server: 81.19.208.107, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 🇺🇲 美国 3, server: 154.17.5.184, port: 18331, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: Heroku-IE 15, server: 104.21.90.210, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
+  - {name: 🇺🇲 美国, server: 198.8.92.84, port: 44945, type: ss, cipher: aes-256-gcm, password: F5bKkb9ggkLx4JbQrbLn7LjZ}
+  - {name: 🇺🇲 美国 2, server: 154.17.5.184, port: 18331, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
   - {name: 🇩🇪 德国, server: 104.19.45.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: 🇺🇲 美国 4, server: 198.8.92.84, port: 40220, type: ss, cipher: aes-256-gcm, password: ugyBkSEFxVEmUYSHyvxmWNj9}
-  - {name: 🇺🇲 美国 5, server: 198.8.92.84, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 🇺🇲 美国 6, server: 198.8.92.84, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇲 美国 7, server: 198.8.92.84, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇲 美国 3, server: 198.8.92.84, port: 40220, type: ss, cipher: aes-256-gcm, password: ugyBkSEFxVEmUYSHyvxmWNj9}
+  - {name: 🇺🇲 美国 4, server: 198.8.92.84, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇲 美国 5, server: 198.8.92.84, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇲 美国 6, server: 198.8.92.84, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
   - {name: 🇨🇳 台湾, server: 82.102.26.117, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
-  - {name: 🇺🇲 美国 8, server: 167.99.192.30, port: 3567, type: ss, cipher: chacha20-ietf-poly1305, password: HGBdOKdcIer5}
-  - {name: 🇺🇲 美国 9, server: 207.244.67.149, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 🇺🇲 美国 10, server: usa2.v2-ray.com, port: 443, type: vmess, uuid: c583d215-a1e9-4139-9435-5ce03915dd5f, alterId: 32, cipher: auto, tls: true, network: ws, ws-path: "/fastssh?u=ak474849&p=60e13f3e718f1&", ws-headers: {Host: usa2.v2-ray.com}}
+  - {name: 🇺🇲 美国 7, server: 167.99.192.30, port: 3567, type: ss, cipher: chacha20-ietf-poly1305, password: HGBdOKdcIer5}
+  - {name: 🇺🇲 美国 8, server: 207.244.67.149, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇲 美国 9, server: usa2.v2-ray.com, port: 443, type: vmess, uuid: c583d215-a1e9-4139-9435-5ce03915dd5f, alterId: 32, cipher: auto, tls: true, network: ws, ws-path: "/fastssh?u=ak474849&p=60e13f3e718f1&", ws-headers: {Host: usa2.v2-ray.com}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -92,19 +89,16 @@ proxy-groups:
       - Heroku-IE 14
       - Heroku-IE 15
       - 🇺🇲 美国
-      - 🇷🇺 俄罗斯
       - 🇺🇲 美国 2
-      - 🇳🇱 荷兰
-      - 🇺🇲 美国 3
       - 🇩🇪 德国
+      - 🇺🇲 美国 3
       - 🇺🇲 美国 4
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
-      - 🇺🇲 美国 7
       - 🇨🇳 台湾
+      - 🇺🇲 美国 7
       - 🇺🇲 美国 8
       - 🇺🇲 美国 9
-      - 🇺🇲 美国 10
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -145,19 +139,16 @@ proxy-groups:
       - Heroku-IE 14
       - Heroku-IE 15
       - 🇺🇲 美国
-      - 🇷🇺 俄罗斯
       - 🇺🇲 美国 2
-      - 🇳🇱 荷兰
-      - 🇺🇲 美国 3
       - 🇩🇪 德国
+      - 🇺🇲 美国 3
       - 🇺🇲 美国 4
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
-      - 🇺🇲 美国 7
       - 🇨🇳 台湾
+      - 🇺🇲 美国 7
       - 🇺🇲 美国 8
       - 🇺🇲 美国 9
-      - 🇺🇲 美国 10
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -198,19 +189,16 @@ proxy-groups:
       - Heroku-IE 14
       - Heroku-IE 15
       - 🇺🇲 美国
-      - 🇷🇺 俄罗斯
       - 🇺🇲 美国 2
-      - 🇳🇱 荷兰
-      - 🇺🇲 美国 3
       - 🇩🇪 德国
+      - 🇺🇲 美国 3
       - 🇺🇲 美国 4
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
-      - 🇺🇲 美国 7
       - 🇨🇳 台湾
+      - 🇺🇲 美国 7
       - 🇺🇲 美国 8
       - 🇺🇲 美国 9
-      - 🇺🇲 美国 10
   - name: 📲 电报信息
     type: select
     proxies:
@@ -250,19 +238,16 @@ proxy-groups:
       - Heroku-IE 14
       - Heroku-IE 15
       - 🇺🇲 美国
-      - 🇷🇺 俄罗斯
       - 🇺🇲 美国 2
-      - 🇳🇱 荷兰
-      - 🇺🇲 美国 3
       - 🇩🇪 德国
+      - 🇺🇲 美国 3
       - 🇺🇲 美国 4
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
-      - 🇺🇲 美国 7
       - 🇨🇳 台湾
+      - 🇺🇲 美国 7
       - 🇺🇲 美国 8
       - 🇺🇲 美国 9
-      - 🇺🇲 美国 10
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -302,19 +287,16 @@ proxy-groups:
       - Heroku-IE 14
       - Heroku-IE 15
       - 🇺🇲 美国
-      - 🇷🇺 俄罗斯
       - 🇺🇲 美国 2
-      - 🇳🇱 荷兰
-      - 🇺🇲 美国 3
       - 🇩🇪 德国
+      - 🇺🇲 美国 3
       - 🇺🇲 美国 4
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
-      - 🇺🇲 美国 7
       - 🇨🇳 台湾
+      - 🇺🇲 美国 7
       - 🇺🇲 美国 8
       - 🇺🇲 美国 9
-      - 🇺🇲 美国 10
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -354,19 +336,16 @@ proxy-groups:
       - Heroku-IE 14
       - Heroku-IE 15
       - 🇺🇲 美国
-      - 🇷🇺 俄罗斯
       - 🇺🇲 美国 2
-      - 🇳🇱 荷兰
-      - 🇺🇲 美国 3
       - 🇩🇪 德国
+      - 🇺🇲 美国 3
       - 🇺🇲 美国 4
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
-      - 🇺🇲 美国 7
       - 🇨🇳 台湾
+      - 🇺🇲 美国 7
       - 🇺🇲 美国 8
       - 🇺🇲 美国 9
-      - 🇺🇲 美国 10
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -407,19 +386,16 @@ proxy-groups:
       - Heroku-IE 14
       - Heroku-IE 15
       - 🇺🇲 美国
-      - 🇷🇺 俄罗斯
       - 🇺🇲 美国 2
-      - 🇳🇱 荷兰
-      - 🇺🇲 美国 3
       - 🇩🇪 德国
+      - 🇺🇲 美国 3
       - 🇺🇲 美国 4
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
-      - 🇺🇲 美国 7
       - 🇨🇳 台湾
+      - 🇺🇲 美国 7
       - 🇺🇲 美国 8
       - 🇺🇲 美国 9
-      - 🇺🇲 美国 10
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -476,19 +452,16 @@ proxy-groups:
       - Heroku-IE 14
       - Heroku-IE 15
       - 🇺🇲 美国
-      - 🇷🇺 俄罗斯
       - 🇺🇲 美国 2
-      - 🇳🇱 荷兰
-      - 🇺🇲 美国 3
       - 🇩🇪 德国
+      - 🇺🇲 美国 3
       - 🇺🇲 美国 4
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
-      - 🇺🇲 美国 7
       - 🇨🇳 台湾
+      - 🇺🇲 美国 7
       - 🇺🇲 美国 8
       - 🇺🇲 美国 9
-      - 🇺🇲 美国 10
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
@@ -2243,7 +2216,6 @@ rules:
  - DOMAIN-SUFFIX,mtalk.google.com,🎯 全球直连
  - DOMAIN-SUFFIX,ocsp.pki.goog,🎯 全球直连
  - DOMAIN-SUFFIX,recaptcha.net,🎯 全球直连
- - DOMAIN-SUFFIX,redirector.gvt1.com,🎯 全球直连
  - DOMAIN-SUFFIX,safebrowsing-cache.google.com,🎯 全球直连
  - DOMAIN-SUFFIX,safebrowsing.googleapis.com,🎯 全球直连
  - DOMAIN-SUFFIX,settings.crashlytics.com,🎯 全球直连
@@ -2410,17 +2382,43 @@ rules:
  - DOMAIN-SUFFIX,gamer.com.tw,🌍 国外媒体
  - DOMAIN-SUFFIX,hinet.net,🌍 国外媒体
  - DOMAIN-KEYWORD,livedazn,🌍 国外媒体
+ - DOMAIN-KEYWORD,vod2dazn,🌍 国外媒体
  - DOMAIN-KEYWORD,voddazn,🌍 国外媒体
  - DOMAIN,d151l6v8er5bdm.cloudfront.net,🌍 国外媒体
+ - DOMAIN,edge.api.brightcove.com,🌍 国外媒体
+ - DOMAIN,players.brightcove.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,amplify.outbrain.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,bluekai.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,control.kochava.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,cws.conviva.com,🌍 国外媒体
  - DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net,🌍 国外媒体
  - DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net,🌍 国外媒体
  - DOMAIN-SUFFIX,dazn-api.com,🌍 国外媒体
  - DOMAIN-SUFFIX,dazn.com,🌍 国外媒体
  - DOMAIN-SUFFIX,dazndn.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,dc1-voddash-perform.secure.footprint.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,dc1live21715dazn.akamaized.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,dc2-live2dash-perform.secure.footprint.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,dc2-live2hls-perform.secure.footprint.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,dc2-vodhls-perform.secure.footprint.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,dca-livedash-perform.secure.footprint.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,dca-voddash-perform.secure.footprint.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,dca-vodhls-perform.secure.footprint.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,dcb-livedash-perform.secure.footprint.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,dcb-voddash-perform.secure.footprint.net,🌍 国外媒体
  - DOMAIN-SUFFIX,dcblivedazn.akamaized.net,🌍 国外媒体
  - DOMAIN-SUFFIX,indazn.com,🌍 国外媒体
  - DOMAIN-SUFFIX,indaznlab.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,intercom.io,🌍 国外媒体
+ - DOMAIN-SUFFIX,perfops.doracdn.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,s.llnwi.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,s.yimg.jp,🌍 国外媒体
+ - DOMAIN-SUFFIX,secure.footprint.net,🌍 国外媒体
  - DOMAIN-SUFFIX,sentry.io,🌍 国外媒体
+ - DOMAIN-SUFFIX,urbanairship.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,vjs.zencdn.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,widevine.entitlement.us.theplatform.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,yahoo.co.jp,🌍 国外媒体
  - DOMAIN-SUFFIX,deezer.com,🌍 国外媒体
  - DOMAIN-SUFFIX,dzcdn.net,🌍 国外媒体
  - DOMAIN,cdn.registerdisney.go.com,🌍 国外媒体
@@ -2641,6 +2639,9 @@ rules:
  - DOMAIN-SUFFIX,youtu.be,🌍 国外媒体
  - DOMAIN-SUFFIX,youtube.com,🌍 国外媒体
  - DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
+ - PROCESS-NAME,com.google.android.apps.youtube.music,🌍 国外媒体
+ - PROCESS-NAME,com.google.android.youtube.tvmusicroot,🌍 国外媒体
+ - PROCESS-NAME,com.vanced.android.apps.youtube.music,🌍 国外媒体
  - DOMAIN-SUFFIX,1password.com,🚀 节点选择
  - DOMAIN-SUFFIX,adguard.org,🚀 节点选择
  - DOMAIN-SUFFIX,bit.no.com,🚀 节点选择
@@ -2763,6 +2764,7 @@ rules:
  - DOMAIN-SUFFIX,nintendo.net,🚀 节点选择
  - DOMAIN-SUFFIX,nsstatic.net,🚀 节点选择
  - DOMAIN-SUFFIX,nytstyle.com,🚀 节点选择
+ - DOMAIN-SUFFIX,overcast.fm,🚀 节点选择
  - DOMAIN-SUFFIX,openvpn.net,🚀 节点选择
  - DOMAIN-SUFFIX,periscope.tv,🚀 节点选择
  - DOMAIN-SUFFIX,pinimg.com,🚀 节点选择
@@ -3543,7 +3545,6 @@ rules:
  - DOMAIN-SUFFIX,oracle.com,🎯 全球直连
  - DOMAIN-SUFFIX,oschina.net,🎯 全球直连
  - DOMAIN-SUFFIX,ourdvs.com,🎯 全球直连
- - DOMAIN-SUFFIX,overcast.fm,🎯 全球直连
  - DOMAIN-SUFFIX,paypal.com,🎯 全球直连
  - DOMAIN-SUFFIX,polyv.net,🎯 全球直连
  - DOMAIN-SUFFIX,qbox.me,🎯 全球直连
