@@ -46,6 +46,9 @@ https://misakanode.cf/Clash.yml
 
 1. 使用节点的时候，请您遵守中国和欧洲法律
 2. 免费节点不保证可用性，如你需要稳定高质量节点，请左转付费机场
+3. 目前Clash.NET在食用Heroku系列节点的时候，会全部出现Timeout，而v2ray没什么问题，目前无解
+
+![](https://upload.cc/i1/2021/07/05/WadCQ9.png)
 
 # TG频道和群组
 
