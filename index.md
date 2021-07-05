@@ -27,12 +27,12 @@ https://misakanode.cf/Clash.yml
 
 [clash for windows x86](https://misakanode.cf/clash/Clash.for.Windows.Setup.0.15.0.ia32.exe)
 
-[Clash.NET x64](https://misakanode.cf/clash/Clash.NET.1.2.1.x64.Setup.exe)
-[绿色版](https://misakanode.cf/clash/Clash.NET.1.2.1.x64.7z)
+[Clash.NET x64](https://misakanode.cf/clash/Clash.NET.1.2.3.x64.Setup.exe)
+[绿色版](https://misakanode.cf/clash/Clash.NET.1.2.3.x64.7z)
 [运行环境](https://misakanode.cf/clash/windowsdesktop-runtime-5.0.7-win-x64.exe)
 
-[Clash.NET x86](https://misakanode.cf/clash/Clash.NET.1.2.1.x86.Setup.exe)
-[绿色版](https://misakanode.cf/clash/Clash.NET.1.2.1.x86.7z)
+[Clash.NET x86](https://misakanode.cf/clash/Clash.NET.1.2.3.x86.Setup.exe)
+[绿色版](https://misakanode.cf/clash/Clash.NET.1.2.3.x86.7z)
 [运行环境](https://misakanode.cf/clash/windowsdesktop-runtime-5.0.7-win-x86.exe)
 
 #### Android
