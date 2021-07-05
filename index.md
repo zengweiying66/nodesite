@@ -2,7 +2,7 @@
 
 此节点来自Heroku US、Heroku IE和CF自选ip优化，为了防失联设计
 
-# 因近期由于某种不可抗力原因，节点速度很慢，甚至连不上，请您谅解
+因近期由于某种不可抗力原因，部分节点速度很慢，甚至连不上，请您谅解
 
 ## 订阅地址
 
@@ -27,6 +27,14 @@ https://misakanode.cf/Clash.yml
 
 [clash for windows x86](https://misakanode.cf/clash/Clash.for.Windows.Setup.0.15.0.ia32.exe)
 
+[Clash.NET x64](https://misakanode.cf/clash/Clash.NET.1.2.1.x64.Setup.exe)
+[绿色版](https://misakanode.cf/clash/Clash.NET.1.2.1.x64.7z)
+[运行环境](https://misakanode.cf/clash/windowsdesktop-runtime-5.0.7-win-x64.exe)
+
+[Clash.NET x86](https://misakanode.cf/clash/Clash.NET.1.2.1.x86.Setup.exe)
+[绿色版](https://misakanode.cf/clash/Clash.NET.1.2.1.x86.7z)
+[运行环境](https://misakanode.cf/clash/windowsdesktop-runtime-5.0.7-win-x86.exe)
+
 #### Android
 
 [clash for android](https://misakanode.cf/clash/app-premium-universal-release.apk)
@@ -38,6 +46,9 @@ https://misakanode.cf/Clash.yml
 
 1. 使用节点的时候，请您遵守中国和欧洲法律
 2. 免费节点不保证可用性，如你需要稳定高质量节点，请左转付费机场
+3. 目前Clash.NET在食用Heroku系列节点的时候，会全部出现Timeout，而v2ray没什么问题，目前无解
+
+![](https://upload.cc/i1/2021/07/05/WadCQ9.png)
 
 # TG频道和群组
 
