@@ -5,50 +5,21 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 网站：https://misakanode.cf, server: misakanode.cf, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: 如遇节点失效，请更新订阅, server: misakanode.cf, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: "TG: https://t.me/misakanetworkgroup", server: misakanode.cf, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-US 1, server: 104.19.81.86, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 2, server: 104.19.73.27, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 3, server: 104.21.89.110, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 4, server: irving021.top, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 5, server: 104.17.195.149, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 6, server: 172.67.85.37, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 7, server: 104.19.69.148, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 8, server: 104.19.69.116, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 9, server: 104.19.69.237, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 10, server: 104.17.33.113, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 11, server: 104.16.156.138, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 12, server: 104.16.156.210, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 13, server: 104.16.156.38, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 14, server: 104.16.156.206, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-US 15, server: 104.16.156.183, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: purple-meadow-dea9.lkymqj04732.workers.dev}}
-  - {name: Heroku-IE 1, server: 104.19.36.142, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 2, server: 104.21.67.245, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 3, server: 104.19.36.49, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 4, server: irving021.top, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 5, server: 172.67.140.217, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 6, server: 104.19.69.172, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 7, server: 104.19.69.191, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 8, server: 104.19.69.255, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 9, server: 104.19.69.252, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 10, server: 104.19.69.224, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 11, server: 104.16.156.226, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 12, server: 104.16.156.164, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 13, server: 104.16.156.128, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 14, server: 104.16.156.205, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: Heroku-IE 15, server: 104.21.90.210, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /f9fb81eb-1dca-4aa9-8446-b558dddf921c-vmess, ws-headers: {Host: long-bread-9ccf.dxjgol78149.workers.dev}}
-  - {name: 美国, server: 198.8.92.84, port: 44945, type: ss, cipher: aes-256-gcm, password: F5bKkb9ggkLx4JbQrbLn7LjZ}
-  - {name: 美国 2, server: 154.17.5.184, port: 18331, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
-  - {name: 德国, server: 104.19.45.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: 美国 3, server: 198.8.92.84, port: 40220, type: ss, cipher: aes-256-gcm, password: ugyBkSEFxVEmUYSHyvxmWNj9}
-  - {name: 美国 4, server: 198.8.92.84, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 美国 5, server: 198.8.92.84, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 美国 6, server: 198.8.92.84, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-  - {name: 美国 7, server: 167.99.192.30, port: 3567, type: ss, cipher: chacha20-ietf-poly1305, password: HGBdOKdcIer5}
-  - {name: 美国 8, server: usa2.v2-ray.com, port: 443, type: vmess, uuid: c583d215-a1e9-4139-9435-5ce03915dd5f, alterId: 32, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: "/fastssh?u=ak474849&p=60e13f3e718f1&", ws-headers: {Host: usa2.v2-ray.com}}
+  - {name: 网站：https://misakanode.cf, server: misakanode.cf, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: misakanode.cf}}
+  - {name: 如遇节点失效，请更新订阅, server: misakanode.cf, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: misakanode.cf}}
+  - {name: "TG: https://t.me/misakanetworkgroup", server: misakanode.cf, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: misakanode.cf}}
   - {name: 智能线路01, server: 46.182.107.25, port: 443, type: vmess, uuid: 0a1ab3bd-0431-4da8-ad8a-238367ce4efc, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.11300814.xyz}}
   - {name: 立陶宛01, server: 46.182.107.25, port: 443, type: vmess, uuid: 0a1ab3bd-0431-4da8-ad8a-238367ce4efc, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.11300814.xyz}}
+  - {name: Heroku-IE 1, server: 104.16.156.144, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh.xdecloud.tk}}
+  - {name: Heroku-IE 2, server: 104.16.156.144, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 3, server: workers.dev, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh.xdecloud.tk}}
+  - {name: Heroku-IE 4, server: workers.dev, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 5, server: pages.dev, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh.xdecloud.tk}}
+  - {name: Heroku-IE 6, server: pages.dev, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 7, server: www.digitalocean.com, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh.xdecloud.tk}}
+  - {name: Heroku-IE 8, server: www.digitalocean.com, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 9, server: icook.hk, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh.xdecloud.tk}}
+  - {name: Heroku-IE 10, server: icook.hk, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -58,21 +29,8 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 如遇节点失效，请更新订阅
       - "TG: https://t.me/misakanetworkgroup"
-      - Heroku-US 1
-      - Heroku-US 2
-      - Heroku-US 3
-      - Heroku-US 4
-      - Heroku-US 5
-      - Heroku-US 6
-      - Heroku-US 7
-      - Heroku-US 8
-      - Heroku-US 9
-      - Heroku-US 10
-      - Heroku-US 11
-      - Heroku-US 12
-      - Heroku-US 13
-      - Heroku-US 14
-      - Heroku-US 15
+      - 智能线路01
+      - 立陶宛01
       - Heroku-IE 1
       - Heroku-IE 2
       - Heroku-IE 3
@@ -83,22 +41,6 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - 美国
-      - 美国 2
-      - 德国
-      - 美国 3
-      - 美国 4
-      - 美国 5
-      - 美国 6
-      - 美国 7
-      - 美国 8
-      - 智能线路01
-      - 立陶宛01
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -108,21 +50,8 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 如遇节点失效，请更新订阅
       - "TG: https://t.me/misakanetworkgroup"
-      - Heroku-US 1
-      - Heroku-US 2
-      - Heroku-US 3
-      - Heroku-US 4
-      - Heroku-US 5
-      - Heroku-US 6
-      - Heroku-US 7
-      - Heroku-US 8
-      - Heroku-US 9
-      - Heroku-US 10
-      - Heroku-US 11
-      - Heroku-US 12
-      - Heroku-US 13
-      - Heroku-US 14
-      - Heroku-US 15
+      - 智能线路01
+      - 立陶宛01
       - Heroku-IE 1
       - Heroku-IE 2
       - Heroku-IE 3
@@ -133,22 +62,6 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - 美国
-      - 美国 2
-      - 德国
-      - 美国 3
-      - 美国 4
-      - 美国 5
-      - 美国 6
-      - 美国 7
-      - 美国 8
-      - 智能线路01
-      - 立陶宛01
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -158,21 +71,8 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 如遇节点失效，请更新订阅
       - "TG: https://t.me/misakanetworkgroup"
-      - Heroku-US 1
-      - Heroku-US 2
-      - Heroku-US 3
-      - Heroku-US 4
-      - Heroku-US 5
-      - Heroku-US 6
-      - Heroku-US 7
-      - Heroku-US 8
-      - Heroku-US 9
-      - Heroku-US 10
-      - Heroku-US 11
-      - Heroku-US 12
-      - Heroku-US 13
-      - Heroku-US 14
-      - Heroku-US 15
+      - 智能线路01
+      - 立陶宛01
       - Heroku-IE 1
       - Heroku-IE 2
       - Heroku-IE 3
@@ -183,22 +83,6 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - 美国
-      - 美国 2
-      - 德国
-      - 美国 3
-      - 美国 4
-      - 美国 5
-      - 美国 6
-      - 美国 7
-      - 美国 8
-      - 智能线路01
-      - 立陶宛01
   - name: 📲 电报信息
     type: select
     proxies:
@@ -207,21 +91,8 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 如遇节点失效，请更新订阅
       - "TG: https://t.me/misakanetworkgroup"
-      - Heroku-US 1
-      - Heroku-US 2
-      - Heroku-US 3
-      - Heroku-US 4
-      - Heroku-US 5
-      - Heroku-US 6
-      - Heroku-US 7
-      - Heroku-US 8
-      - Heroku-US 9
-      - Heroku-US 10
-      - Heroku-US 11
-      - Heroku-US 12
-      - Heroku-US 13
-      - Heroku-US 14
-      - Heroku-US 15
+      - 智能线路01
+      - 立陶宛01
       - Heroku-IE 1
       - Heroku-IE 2
       - Heroku-IE 3
@@ -232,22 +103,6 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - 美国
-      - 美国 2
-      - 德国
-      - 美国 3
-      - 美国 4
-      - 美国 5
-      - 美国 6
-      - 美国 7
-      - 美国 8
-      - 智能线路01
-      - 立陶宛01
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -256,21 +111,8 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 如遇节点失效，请更新订阅
       - "TG: https://t.me/misakanetworkgroup"
-      - Heroku-US 1
-      - Heroku-US 2
-      - Heroku-US 3
-      - Heroku-US 4
-      - Heroku-US 5
-      - Heroku-US 6
-      - Heroku-US 7
-      - Heroku-US 8
-      - Heroku-US 9
-      - Heroku-US 10
-      - Heroku-US 11
-      - Heroku-US 12
-      - Heroku-US 13
-      - Heroku-US 14
-      - Heroku-US 15
+      - 智能线路01
+      - 立陶宛01
       - Heroku-IE 1
       - Heroku-IE 2
       - Heroku-IE 3
@@ -281,22 +123,6 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - 美国
-      - 美国 2
-      - 德国
-      - 美国 3
-      - 美国 4
-      - 美国 5
-      - 美国 6
-      - 美国 7
-      - 美国 8
-      - 智能线路01
-      - 立陶宛01
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -305,21 +131,8 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 如遇节点失效，请更新订阅
       - "TG: https://t.me/misakanetworkgroup"
-      - Heroku-US 1
-      - Heroku-US 2
-      - Heroku-US 3
-      - Heroku-US 4
-      - Heroku-US 5
-      - Heroku-US 6
-      - Heroku-US 7
-      - Heroku-US 8
-      - Heroku-US 9
-      - Heroku-US 10
-      - Heroku-US 11
-      - Heroku-US 12
-      - Heroku-US 13
-      - Heroku-US 14
-      - Heroku-US 15
+      - 智能线路01
+      - 立陶宛01
       - Heroku-IE 1
       - Heroku-IE 2
       - Heroku-IE 3
@@ -330,22 +143,6 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - 美国
-      - 美国 2
-      - 德国
-      - 美国 3
-      - 美国 4
-      - 美国 5
-      - 美国 6
-      - 美国 7
-      - 美国 8
-      - 智能线路01
-      - 立陶宛01
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -355,21 +152,8 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 如遇节点失效，请更新订阅
       - "TG: https://t.me/misakanetworkgroup"
-      - Heroku-US 1
-      - Heroku-US 2
-      - Heroku-US 3
-      - Heroku-US 4
-      - Heroku-US 5
-      - Heroku-US 6
-      - Heroku-US 7
-      - Heroku-US 8
-      - Heroku-US 9
-      - Heroku-US 10
-      - Heroku-US 11
-      - Heroku-US 12
-      - Heroku-US 13
-      - Heroku-US 14
-      - Heroku-US 15
+      - 智能线路01
+      - 立陶宛01
       - Heroku-IE 1
       - Heroku-IE 2
       - Heroku-IE 3
@@ -380,22 +164,6 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - 美国
-      - 美国 2
-      - 德国
-      - 美国 3
-      - 美国 4
-      - 美国 5
-      - 美国 6
-      - 美国 7
-      - 美国 8
-      - 智能线路01
-      - 立陶宛01
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -421,21 +189,8 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 如遇节点失效，请更新订阅
       - "TG: https://t.me/misakanetworkgroup"
-      - Heroku-US 1
-      - Heroku-US 2
-      - Heroku-US 3
-      - Heroku-US 4
-      - Heroku-US 5
-      - Heroku-US 6
-      - Heroku-US 7
-      - Heroku-US 8
-      - Heroku-US 9
-      - Heroku-US 10
-      - Heroku-US 11
-      - Heroku-US 12
-      - Heroku-US 13
-      - Heroku-US 14
-      - Heroku-US 15
+      - 智能线路01
+      - 立陶宛01
       - Heroku-IE 1
       - Heroku-IE 2
       - Heroku-IE 3
@@ -446,22 +201,6 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - 美国
-      - 美国 2
-      - 德国
-      - 美国 3
-      - 美国 4
-      - 美国 5
-      - 美国 6
-      - 美国 7
-      - 美国 8
-      - 智能线路01
-      - 立陶宛01
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
