@@ -12,14 +12,24 @@ proxies:
   - {name: 立陶宛01, server: 46.182.107.25, port: 443, type: vmess, uuid: 0a1ab3bd-0431-4da8-ad8a-238367ce4efc, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.11300814.xyz}}
   - {name: Heroku-IE 1, server: 104.16.156.144, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh.xdecloud.tk}}
   - {name: Heroku-IE 2, server: 104.16.156.144, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 3, server: workers.dev, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh.xdecloud.tk}}
-  - {name: Heroku-IE 4, server: workers.dev, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 5, server: pages.dev, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh.xdecloud.tk}}
-  - {name: Heroku-IE 6, server: pages.dev, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 7, server: www.digitalocean.com, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh.xdecloud.tk}}
-  - {name: Heroku-IE 8, server: www.digitalocean.com, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 9, server: icook.hk, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh.xdecloud.tk}}
-  - {name: Heroku-IE 10, server: icook.hk, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 3, server: workers.dev, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 4, server: pages.dev, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 5, server: 162.159.208.28, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 6, server: 162.159.208.35, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 7, server: 162.159.208.59, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 8, server: 162.159.208.30, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 9, server: 162.159.209.37, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 10, server: 162.159.209.34, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 11, server: 162.159.209.95, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 12, server: 162.159.209.64, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 13, server: 162.159.210.82, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 14, server: 162.159.210.55, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 15, server: 162.159.210.81, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 16, server: 162.159.210.41, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 17, server: 162.159.211.74, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 18, server: 162.159.211.33, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 19, server: 162.159.211.96, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
+  - {name: Heroku-IE 20, server: 162.159.211.38, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -41,6 +51,16 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
+      - Heroku-IE 11
+      - Heroku-IE 12
+      - Heroku-IE 13
+      - Heroku-IE 14
+      - Heroku-IE 15
+      - Heroku-IE 16
+      - Heroku-IE 17
+      - Heroku-IE 18
+      - Heroku-IE 19
+      - Heroku-IE 20
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -62,6 +82,16 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
+      - Heroku-IE 11
+      - Heroku-IE 12
+      - Heroku-IE 13
+      - Heroku-IE 14
+      - Heroku-IE 15
+      - Heroku-IE 16
+      - Heroku-IE 17
+      - Heroku-IE 18
+      - Heroku-IE 19
+      - Heroku-IE 20
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -83,6 +113,16 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
+      - Heroku-IE 11
+      - Heroku-IE 12
+      - Heroku-IE 13
+      - Heroku-IE 14
+      - Heroku-IE 15
+      - Heroku-IE 16
+      - Heroku-IE 17
+      - Heroku-IE 18
+      - Heroku-IE 19
+      - Heroku-IE 20
   - name: 📲 电报信息
     type: select
     proxies:
@@ -103,6 +143,16 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
+      - Heroku-IE 11
+      - Heroku-IE 12
+      - Heroku-IE 13
+      - Heroku-IE 14
+      - Heroku-IE 15
+      - Heroku-IE 16
+      - Heroku-IE 17
+      - Heroku-IE 18
+      - Heroku-IE 19
+      - Heroku-IE 20
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -123,6 +173,16 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
+      - Heroku-IE 11
+      - Heroku-IE 12
+      - Heroku-IE 13
+      - Heroku-IE 14
+      - Heroku-IE 15
+      - Heroku-IE 16
+      - Heroku-IE 17
+      - Heroku-IE 18
+      - Heroku-IE 19
+      - Heroku-IE 20
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -143,6 +203,16 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
+      - Heroku-IE 11
+      - Heroku-IE 12
+      - Heroku-IE 13
+      - Heroku-IE 14
+      - Heroku-IE 15
+      - Heroku-IE 16
+      - Heroku-IE 17
+      - Heroku-IE 18
+      - Heroku-IE 19
+      - Heroku-IE 20
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -164,6 +234,16 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
+      - Heroku-IE 11
+      - Heroku-IE 12
+      - Heroku-IE 13
+      - Heroku-IE 14
+      - Heroku-IE 15
+      - Heroku-IE 16
+      - Heroku-IE 17
+      - Heroku-IE 18
+      - Heroku-IE 19
+      - Heroku-IE 20
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -201,6 +281,16 @@ proxy-groups:
       - Heroku-IE 8
       - Heroku-IE 9
       - Heroku-IE 10
+      - Heroku-IE 11
+      - Heroku-IE 12
+      - Heroku-IE 13
+      - Heroku-IE 14
+      - Heroku-IE 15
+      - Heroku-IE 16
+      - Heroku-IE 17
+      - Heroku-IE 18
+      - Heroku-IE 19
+      - Heroku-IE 20
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
