@@ -30,26 +30,6 @@ proxies:
   - {name: Heroku-IE 18, server: 162.159.211.33, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
   - {name: Heroku-IE 19, server: 162.159.211.58, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
   - {name: Heroku-IE 20, server: 162.159.211.38, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: 🇺🇸 Heroku-US 1, server: 104.19.0.64, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 2, server: 104.16.156.144, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 3, server: 104.16.160.208, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 4, server: pages.dev, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 5, server: 162.159.208.75, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 6, server: 104.16.160.114, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 7, server: 162.159.208.59, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 8, server: 104.16.160.224, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 9, server: 162.159.208.30, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 10, server: 162.159.209.34, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 11, server: 141.101.115.238, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 12, server: 141.101.115.223, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 13, server: 141.101.115.104, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 14, server: 162.159.210.55, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 15, server: 162.159.210.70, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 16, server: 162.159.210.41, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 17, server: 162.159.211.74, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 18, server: 162.159.211.33, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 19, server: 162.159.211.82, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
-  - {name: 🇺🇸 Heroku-US 20, server: 162.159.211.38, port: 443, type: vmess, uuid: cc69f07b-dc0d-4e7b-82cd-e25ee84d9f6f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: v2ray-us.gd1214a.workers.dev}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -81,26 +61,6 @@ proxy-groups:
       - Heroku-IE 18
       - Heroku-IE 19
       - Heroku-IE 20
-      - 🇺🇸 Heroku-US 1
-      - 🇺🇸 Heroku-US 2
-      - 🇺🇸 Heroku-US 3
-      - 🇺🇸 Heroku-US 4
-      - 🇺🇸 Heroku-US 5
-      - 🇺🇸 Heroku-US 6
-      - 🇺🇸 Heroku-US 7
-      - 🇺🇸 Heroku-US 8
-      - 🇺🇸 Heroku-US 9
-      - 🇺🇸 Heroku-US 10
-      - 🇺🇸 Heroku-US 11
-      - 🇺🇸 Heroku-US 12
-      - 🇺🇸 Heroku-US 13
-      - 🇺🇸 Heroku-US 14
-      - 🇺🇸 Heroku-US 15
-      - 🇺🇸 Heroku-US 16
-      - 🇺🇸 Heroku-US 17
-      - 🇺🇸 Heroku-US 18
-      - 🇺🇸 Heroku-US 19
-      - 🇺🇸 Heroku-US 20
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -131,26 +91,6 @@ proxy-groups:
       - Heroku-IE 18
       - Heroku-IE 19
       - Heroku-IE 20
-      - 🇺🇸 Heroku-US 1
-      - 🇺🇸 Heroku-US 2
-      - 🇺🇸 Heroku-US 3
-      - 🇺🇸 Heroku-US 4
-      - 🇺🇸 Heroku-US 5
-      - 🇺🇸 Heroku-US 6
-      - 🇺🇸 Heroku-US 7
-      - 🇺🇸 Heroku-US 8
-      - 🇺🇸 Heroku-US 9
-      - 🇺🇸 Heroku-US 10
-      - 🇺🇸 Heroku-US 11
-      - 🇺🇸 Heroku-US 12
-      - 🇺🇸 Heroku-US 13
-      - 🇺🇸 Heroku-US 14
-      - 🇺🇸 Heroku-US 15
-      - 🇺🇸 Heroku-US 16
-      - 🇺🇸 Heroku-US 17
-      - 🇺🇸 Heroku-US 18
-      - 🇺🇸 Heroku-US 19
-      - 🇺🇸 Heroku-US 20
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -182,26 +122,6 @@ proxy-groups:
       - Heroku-IE 18
       - Heroku-IE 19
       - Heroku-IE 20
-      - 🇺🇸 Heroku-US 1
-      - 🇺🇸 Heroku-US 2
-      - 🇺🇸 Heroku-US 3
-      - 🇺🇸 Heroku-US 4
-      - 🇺🇸 Heroku-US 5
-      - 🇺🇸 Heroku-US 6
-      - 🇺🇸 Heroku-US 7
-      - 🇺🇸 Heroku-US 8
-      - 🇺🇸 Heroku-US 9
-      - 🇺🇸 Heroku-US 10
-      - 🇺🇸 Heroku-US 11
-      - 🇺🇸 Heroku-US 12
-      - 🇺🇸 Heroku-US 13
-      - 🇺🇸 Heroku-US 14
-      - 🇺🇸 Heroku-US 15
-      - 🇺🇸 Heroku-US 16
-      - 🇺🇸 Heroku-US 17
-      - 🇺🇸 Heroku-US 18
-      - 🇺🇸 Heroku-US 19
-      - 🇺🇸 Heroku-US 20
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -238,26 +158,6 @@ proxy-groups:
       - Heroku-IE 18
       - Heroku-IE 19
       - Heroku-IE 20
-      - 🇺🇸 Heroku-US 1
-      - 🇺🇸 Heroku-US 2
-      - 🇺🇸 Heroku-US 3
-      - 🇺🇸 Heroku-US 4
-      - 🇺🇸 Heroku-US 5
-      - 🇺🇸 Heroku-US 6
-      - 🇺🇸 Heroku-US 7
-      - 🇺🇸 Heroku-US 8
-      - 🇺🇸 Heroku-US 9
-      - 🇺🇸 Heroku-US 10
-      - 🇺🇸 Heroku-US 11
-      - 🇺🇸 Heroku-US 12
-      - 🇺🇸 Heroku-US 13
-      - 🇺🇸 Heroku-US 14
-      - 🇺🇸 Heroku-US 15
-      - 🇺🇸 Heroku-US 16
-      - 🇺🇸 Heroku-US 17
-      - 🇺🇸 Heroku-US 18
-      - 🇺🇸 Heroku-US 19
-      - 🇺🇸 Heroku-US 20
   - name: 📲 电报信息
     type: select
     proxies:
@@ -288,26 +188,6 @@ proxy-groups:
       - Heroku-IE 18
       - Heroku-IE 19
       - Heroku-IE 20
-      - 🇺🇸 Heroku-US 1
-      - 🇺🇸 Heroku-US 2
-      - 🇺🇸 Heroku-US 3
-      - 🇺🇸 Heroku-US 4
-      - 🇺🇸 Heroku-US 5
-      - 🇺🇸 Heroku-US 6
-      - 🇺🇸 Heroku-US 7
-      - 🇺🇸 Heroku-US 8
-      - 🇺🇸 Heroku-US 9
-      - 🇺🇸 Heroku-US 10
-      - 🇺🇸 Heroku-US 11
-      - 🇺🇸 Heroku-US 12
-      - 🇺🇸 Heroku-US 13
-      - 🇺🇸 Heroku-US 14
-      - 🇺🇸 Heroku-US 15
-      - 🇺🇸 Heroku-US 16
-      - 🇺🇸 Heroku-US 17
-      - 🇺🇸 Heroku-US 18
-      - 🇺🇸 Heroku-US 19
-      - 🇺🇸 Heroku-US 20
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -339,26 +219,6 @@ proxy-groups:
       - Heroku-IE 18
       - Heroku-IE 19
       - Heroku-IE 20
-      - 🇺🇸 Heroku-US 1
-      - 🇺🇸 Heroku-US 2
-      - 🇺🇸 Heroku-US 3
-      - 🇺🇸 Heroku-US 4
-      - 🇺🇸 Heroku-US 5
-      - 🇺🇸 Heroku-US 6
-      - 🇺🇸 Heroku-US 7
-      - 🇺🇸 Heroku-US 8
-      - 🇺🇸 Heroku-US 9
-      - 🇺🇸 Heroku-US 10
-      - 🇺🇸 Heroku-US 11
-      - 🇺🇸 Heroku-US 12
-      - 🇺🇸 Heroku-US 13
-      - 🇺🇸 Heroku-US 14
-      - 🇺🇸 Heroku-US 15
-      - 🇺🇸 Heroku-US 16
-      - 🇺🇸 Heroku-US 17
-      - 🇺🇸 Heroku-US 18
-      - 🇺🇸 Heroku-US 19
-      - 🇺🇸 Heroku-US 20
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -399,26 +259,6 @@ proxy-groups:
       - Heroku-IE 18
       - Heroku-IE 19
       - Heroku-IE 20
-      - 🇺🇸 Heroku-US 1
-      - 🇺🇸 Heroku-US 2
-      - 🇺🇸 Heroku-US 3
-      - 🇺🇸 Heroku-US 4
-      - 🇺🇸 Heroku-US 5
-      - 🇺🇸 Heroku-US 6
-      - 🇺🇸 Heroku-US 7
-      - 🇺🇸 Heroku-US 8
-      - 🇺🇸 Heroku-US 9
-      - 🇺🇸 Heroku-US 10
-      - 🇺🇸 Heroku-US 11
-      - 🇺🇸 Heroku-US 12
-      - 🇺🇸 Heroku-US 13
-      - 🇺🇸 Heroku-US 14
-      - 🇺🇸 Heroku-US 15
-      - 🇺🇸 Heroku-US 16
-      - 🇺🇸 Heroku-US 17
-      - 🇺🇸 Heroku-US 18
-      - 🇺🇸 Heroku-US 19
-      - 🇺🇸 Heroku-US 20
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
