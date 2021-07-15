@@ -8,31 +8,86 @@ proxies:
   - {name: 网站：https://misakanode.cf, server: misakanode.cf, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: misakanode.cf}}
   - {name: 🇸🇬 如遇节点失效，请更新订阅, server: misakanode.cf, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: misakanode.cf}}
   - {name: "🇨🇳 TG: https://t.me/misakanetworkgroup", server: misakanode.cf, port: 443, type: vmess, uuid: f9fb81eb-1dca-4aa9-8446-b558dddf921c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: misakanode.cf}}
-  - {name: Heroku-IE 1, server: 104.16.156.144, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh.xdecloud.tk}}
-  - {name: Heroku-IE 2, server: 104.16.156.144, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 3, server: 104.16.160.208, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 4, server: pages.dev, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 5, server: 162.159.208.75, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 6, server: 104.16.160.114, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 7, server: 162.159.208.59, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 8, server: 162.159.208.30, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 9, server: 104.16.160.224, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 10, server: 162.159.209.34, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 11, server: 141.101.115.238, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 12, server: 141.101.115.223, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 13, server: 141.101.115.104, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 14, server: 162.159.210.82, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 15, server: 162.159.210.70, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 16, server: 162.159.210.41, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 17, server: 162.159.211.74, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 18, server: 162.159.211.33, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 19, server: 162.159.211.58, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
-  - {name: Heroku-IE 20, server: 162.159.211.38, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
   - {name: 🇺🇸 黑洞-美国, server: 173.82.23.189, port: 443, type: vmess, uuid: 8665542a-60ec-427f-96a0-f2a5065aadae, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: path/060734070034, ws-headers: {Host: www.27804367.xyz}}
-  - {name: 🇬🇧 英国(自由之梦免费节点-倒卖举报) 2, server: 46.182.107.154, port: 443, type: vmess, uuid: 130c9f2e-42b1-4ebf-b345-e26456a061f9, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.05222027.xyz}}
-  - {name: 智能线路01, server: 46.182.107.25, port: 443, type: vmess, uuid: 0a1ab3bd-0431-4da8-ad8a-238367ce4efc, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.11300814.xyz}}
+  - {name: 🇬🇧 英国, server: 46.182.107.154, port: 443, type: vmess, uuid: 130c9f2e-42b1-4ebf-b345-e26456a061f9, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.05222027.xyz}}
+  - {name: 🇳🇱 荷兰01, server: 46.182.107.25, port: 443, type: vmess, uuid: 0a1ab3bd-0431-4da8-ad8a-238367ce4efc, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.11300814.xyz}}
   - {name: 立陶宛01, server: 46.182.107.25, port: 443, type: vmess, uuid: 0a1ab3bd-0431-4da8-ad8a-238367ce4efc, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.11300814.xyz}}
-  - {name: 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 37, server: 104.19.45.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 37, server: 104.19.45.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 9, server: 96.43.91.60, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
+  - {name: 🇺🇸 美国  11, server: 66.115.175.37, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇳🇱 荷兰  13, server: 46.182.107.93, port: 443, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.54872833.xyz}}
+  - {name: 🇳🇱 荷兰  15, server: 46.182.107.146, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca4690dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.44590130.xyz}}
+  - {name: 🇳🇱 荷兰  17, server: 46.182.107.154, port: 443, type: vmess, uuid: 130c9f2e-42b1-4ebf-b345-e26456a061f9, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.05222027.xyz}}
+  - {name: 🇳🇱 荷兰  18, server: 46.182.107.25, port: 443, type: vmess, uuid: 0a1ab3bd-0431-4da8-ad8a-238367ce4efc, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.11300814.xyz}}
+  - {name: 🇺🇸 美国赛基诺州立大学 20, server: nn-ssr4.feiclouddd.me, port: 443, type: vmess, uuid: 79214731-7f0c-4f2d-a894-13b7df293624, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /sadfasdf, ws-headers: {Host: nn-ssr4.feiclouddd.me}}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 23, server: 104.19.45.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇺🇸 美国  27, server: 198.8.92.84, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇮🇳 印度  31, server: 137.59.52.107, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 32, server: 23.224.30.36, port: 443, type: vmess, uuid: e4494518-74e8-4d6b-942a-6b332cce09ef, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.01902367.xyz}}
+  - {name: 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 33, server: ban4.feiclouddd.me, port: 443, type: vmess, uuid: 6da431e4-d7b1-4f61-b3e2-f3f8d6f03bb8, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /sdafasfsa, ws-headers: {Host: ban4.feiclouddd.me}}
+  - {name: 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 34, server: qq1-cloud13.feiclouddd.me, port: 443, type: vmess, uuid: 478055cc-fdb8-404e-b730-c32faa2c7ca1, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /asdfasdf, ws-headers: {Host: qq1-cloud13.feiclouddd.me}}
+  - {name: 🇺🇸 北美地区  38, server: 104.156.254.142, port: 443, type: vmess, uuid: 2ac0acf7-a788-4b3e-a643-3a87368a49dd, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /sadfasf, ws-headers: {Host: qq13.feiclouddd.me}}
+  - {name: 🇺🇸 美国  40, server: 198.8.92.84, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇰🇷 韩国首尔Amazon数据中心 2, server: 13.124.66.77, port: 26571, type: vmess, uuid: 9c0a9f28-f9db-4b18-cd76-c14d0755e5b2, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 葡萄牙  8, server: 82.102.26.117, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇺🇸 美国  9, server: 198.8.92.84, port: 44945, type: ss, cipher: aes-256-gcm, password: F5bKkb9ggkLx4JbQrbLn7LjZ}
+  - {name: 匈牙利  12, server: 185.225.69.134, port: 45081, type: vmess, uuid: 3c3bfd75-dc30-4e76-8940-47e1137e21f9, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 14, server: 96.43.91.58, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
+  - {name: 🇳🇱 荷兰  16, server: 46.182.107.25, port: 443, type: vmess, uuid: 0a1ab3bd-0431-4da8-ad8a-238367ce4efc, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.11300814.xyz}}
+  - {name: 🇳🇱 荷兰  18 2, server: 46.182.107.39, port: 443, type: vmess, uuid: d3133484-f2bf-4b0c-8d38-f8e645b65687, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.07890885.xyz}}
+  - {name: 🇳🇱 荷兰  21, server: 46.182.107.94, port: 443, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.54872833.xyz}}
+  - {name: 🇳🇱 荷兰  22, server: 132.226.169.93, port: 45623, type: vmess, uuid: 0453154b-db51-4a66-8f7c-0887878cb9a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 24, server: ban4.feiclouddd.me, port: 443, type: vmess, uuid: 6da431e4-d7b1-4f61-b3e2-f3f8d6f03bb8, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /sdafasfsa, ws-headers: {Host: ban4.feiclouddd.me}}
+  - {name: 🇳🇱 荷兰  32, server: 46.182.107.37, port: 443, type: vmess, uuid: 65ea6727-4461-47a7-a5c4-fef2c67f2f79, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.09462550.xyz}}
+  - {name: 🇳🇱 荷兰  33, server: 46.182.107.154, port: 443, type: vmess, uuid: 130c9f2e-42b1-4ebf-b345-e26456a061f9, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.05222027.xyz}}
+  - {name: 🇺🇸 美国CloudFlare公司CDN节点 37 2, server: 104.19.45.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇮🇳 印度  39, server: 137.59.52.107, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 44, server: qq1-cloud13.feiclouddd.me, port: 443, type: vmess, uuid: 478055cc-fdb8-404e-b730-c32faa2c7ca1, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /asdfasdf, ws-headers: {Host: qq1-cloud13.feiclouddd.me}}
+  - {name: 🇺🇸 北美地区  48, server: qq13.feiclouddd.me, port: 443, type: vmess, uuid: 2ac0acf7-a788-4b3e-a643-3a87368a49dd, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /sadfasf, ws-headers: {Host: qq13.feiclouddd.me}}
+  - {name: 🇩🇰 丹麦哥本哈根Digital VM 51, server: 5.183.101.204, port: 59857, type: vmess, uuid: 4c35d374-dbf2-4e5f-c731-dfa49191825a, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 US3, server: qq1-cloud13.feiclouddd.me, port: 443, type: vmess, uuid: 478055cc-fdb8-404e-b730-c32faa2c7ca1, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /asdfasdf, ws-headers: {Host: qq1-cloud13.feiclouddd.me}}
+  - {name: 🇺🇸 美国4, server: qq1-cloud13.feiclouddd.me, port: 443, type: vmess, uuid: 478055cc-fdb8-404e-b730-c32faa2c7ca1, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /asdfasdf, ws-headers: {Host: qq1-cloud13.feiclouddd.me}}
+  - {name: 🇺🇸 US5, server: ban4.feiclouddd.me, port: 443, type: vmess, uuid: 6da431e4-d7b1-4f61-b3e2-f3f8d6f03bb8, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /sdafasfsa, ws-headers: {Host: ban4.feiclouddd.me}}
+  - {name: 🇺🇸 us, server: nn-ssr4.feiclouddd.me, port: 443, type: vmess, uuid: 79214731-7f0c-4f2d-a894-13b7df293624, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /sadfasdf, ws-headers: {Host: nn-ssr4.feiclouddd.me}}
+  - {name: 🇺🇸 美国, server: ban4.feiclouddd.me, port: 443, type: vmess, uuid: 6da431e4-d7b1-4f61-b3e2-f3f8d6f03bb8, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /sdafasfsa, ws-headers: {Host: ban4.feiclouddd.me}}
+  - {name: 🇬🇧 英国2, server: 5.183.101.200, port: 35374, type: vmess, uuid: 62836733-0014-4014-e0e3-908eea2f3063, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 US4, server: qq13.feiclouddd.me, port: 443, type: vmess, uuid: 2ac0acf7-a788-4b3e-a643-3a87368a49dd, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /sadfasf, ws-headers: {Host: qq13.feiclouddd.me}}
+  - {name: 🇨🇳 中国 台湾省2, server: 211.23.132.124, port: 9233, type: vmess, uuid: be58f4e4-894a-47ee-8836-cf75e74fa9c9, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 211.23.132.124}}
+  - {name: 🇩🇪 德国, server: 138.201.150.52, port: 33957, type: vmess, uuid: 89cee221-b06c-46c5-f0d7-4fd3f4740b97, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇬🇧 英国 2, server: 5.183.101.200, port: 35374, type: vmess, uuid: 62836733-0014-4014-e0e3-908eea2f3063, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 中国 台湾省, server: 211.23.132.124, port: 9233, type: vmess, uuid: be58f4e4-894a-47ee-8836-cf75e74fa9c9, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 211.23.132.124}}
+  - {name: 🇫🇷 法国, server: 146.59.13.37, port: 80, type: vmess, uuid: b79212e2-b670-4d4b-8c22-eb796921b97a, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 146.59.13.37}}
+  - {name: 🇺🇸 US 7, server: 96.43.91.60, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
+  - {name: 🇺🇸 美国 2, server: qq13.feiclouddd.me, port: 443, type: vmess, uuid: 2ac0acf7-a788-4b3e-a643-3a87368a49dd, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /sadfasf, ws-headers: {Host: qq13.feiclouddd.me}}
+  - {name: 🇫🇷 法国 2, server: 135.125.207.34, port: 80, type: vmess, uuid: b42c2cbd-9aa7-42f6-9239-6055906bee3b, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 135.125.207.34}}
+  - {name: 🇭🇰 HK, server: 118.107.244.114, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特, server: 91.90.123.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 美国 亚特兰大3, server: 198.8.92.84, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特11, server: 91.90.123.115, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇷🇴 罗马尼亚4, server: 195.47.194.42, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特4, server: 91.90.123.115, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇷🇴 罗马尼亚6, server: 195.47.194.42, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇷🇴 罗马尼亚2, server: 195.47.194.42, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇷🇴 罗马尼亚1, server: 195.47.194.42, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特9, server: 91.90.123.115, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 美国 亚特兰大5, server: 198.8.92.84, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特3, server: 91.90.123.115, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特12, server: 91.90.123.115, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇷🇴 罗马尼亚5, server: 195.47.194.42, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 克罗地亚3, server: 85.10.50.164, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 美国 洛杉矶, server: 198.147.22.87, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特 2, server: 91.90.123.115, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 美国 亚特兰大, server: 198.8.92.84, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇬🇧 英国 英格兰, server: 185.44.76.188, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特2, server: 91.90.123.115, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇫🇷 法国 3, server: 51.89.99.59, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特7, server: 91.90.123.115, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 美国 亚特兰大2, server: 198.8.92.84, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇬🇧 英国 3, server: 185.44.76.188, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 美国 亚特兰大4, server: 198.8.92.84, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇷🇴 罗马尼亚7, server: 195.47.194.42, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇸🇬 美国 新泽西, server: 66.55.148.42, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇮🇳 印度, server: 137.59.52.107, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -42,31 +97,86 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 🇸🇬 如遇节点失效，请更新订阅
       - "🇨🇳 TG: https://t.me/misakanetworkgroup"
-      - Heroku-IE 1
-      - Heroku-IE 2
-      - Heroku-IE 3
-      - Heroku-IE 4
-      - Heroku-IE 5
-      - Heroku-IE 6
-      - Heroku-IE 7
-      - Heroku-IE 8
-      - Heroku-IE 9
-      - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - Heroku-IE 16
-      - Heroku-IE 17
-      - Heroku-IE 18
-      - Heroku-IE 19
-      - Heroku-IE 20
       - 🇺🇸 黑洞-美国
-      - 🇬🇧 英国(自由之梦免费节点-倒卖举报) 2
-      - 智能线路01
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰01
       - 立陶宛01
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 美国CloudFlare公司CDN节点 37
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 9
+      - 🇺🇸 美国  11
+      - 🇳🇱 荷兰  13
+      - 🇳🇱 荷兰  15
+      - 🇳🇱 荷兰  17
+      - 🇳🇱 荷兰  18
+      - 🇺🇸 美国赛基诺州立大学 20
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国  27
+      - 🇮🇳 印度  31
+      - 🇺🇸 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 32
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 33
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 34
+      - 🇺🇸 北美地区  38
+      - 🇺🇸 美国  40
+      - 🇰🇷 韩国首尔Amazon数据中心 2
+      - 葡萄牙  8
+      - 🇺🇸 美国  9
+      - 匈牙利  12
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇳🇱 荷兰  16
+      - 🇳🇱 荷兰  18 2
+      - 🇳🇱 荷兰  21
+      - 🇳🇱 荷兰  22
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 24
+      - 🇳🇱 荷兰  32
+      - 🇳🇱 荷兰  33
+      - 🇺🇸 美国CloudFlare公司CDN节点 37 2
+      - 🇮🇳 印度  39
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 44
+      - 🇺🇸 北美地区  48
+      - 🇩🇰 丹麦哥本哈根Digital VM 51
+      - 🇺🇸 US3
+      - 🇺🇸 美国4
+      - 🇺🇸 US5
+      - 🇺🇸 us
+      - 🇺🇸 美国
+      - 🇬🇧 英国2
+      - 🇺🇸 US4
+      - 🇨🇳 中国 台湾省2
+      - 🇩🇪 德国
+      - 🇬🇧 英国 2
+      - 🇨🇳 中国 台湾省
+      - 🇫🇷 法国
+      - 🇺🇸 US 7
+      - 🇺🇸 美国 2
+      - 🇫🇷 法国 2
+      - 🇭🇰 HK
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇺🇸 美国 亚特兰大3
+      - 🇷🇴 罗马尼亚 布加勒斯特11
+      - 🇷🇴 罗马尼亚4
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚1
+      - 🇷🇴 罗马尼亚 布加勒斯特9
+      - 🇺🇸 美国 亚特兰大5
+      - 🇷🇴 罗马尼亚 布加勒斯特3
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚5
+      - 克罗地亚3
+      - 🇺🇸 美国 洛杉矶
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇺🇸 美国 亚特兰大
+      - 🇬🇧 英国 英格兰
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇫🇷 法国 3
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇺🇸 美国 亚特兰大2
+      - 🇬🇧 英国 3
+      - 🇺🇸 美国 亚特兰大4
+      - 🇷🇴 罗马尼亚7
+      - 🇸🇬 美国 新泽西
+      - 🇮🇳 印度
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -75,31 +185,86 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 🇸🇬 如遇节点失效，请更新订阅
       - "🇨🇳 TG: https://t.me/misakanetworkgroup"
-      - Heroku-IE 1
-      - Heroku-IE 2
-      - Heroku-IE 3
-      - Heroku-IE 4
-      - Heroku-IE 5
-      - Heroku-IE 6
-      - Heroku-IE 7
-      - Heroku-IE 8
-      - Heroku-IE 9
-      - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - Heroku-IE 16
-      - Heroku-IE 17
-      - Heroku-IE 18
-      - Heroku-IE 19
-      - Heroku-IE 20
       - 🇺🇸 黑洞-美国
-      - 🇬🇧 英国(自由之梦免费节点-倒卖举报) 2
-      - 智能线路01
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰01
       - 立陶宛01
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 美国CloudFlare公司CDN节点 37
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 9
+      - 🇺🇸 美国  11
+      - 🇳🇱 荷兰  13
+      - 🇳🇱 荷兰  15
+      - 🇳🇱 荷兰  17
+      - 🇳🇱 荷兰  18
+      - 🇺🇸 美国赛基诺州立大学 20
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国  27
+      - 🇮🇳 印度  31
+      - 🇺🇸 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 32
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 33
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 34
+      - 🇺🇸 北美地区  38
+      - 🇺🇸 美国  40
+      - 🇰🇷 韩国首尔Amazon数据中心 2
+      - 葡萄牙  8
+      - 🇺🇸 美国  9
+      - 匈牙利  12
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇳🇱 荷兰  16
+      - 🇳🇱 荷兰  18 2
+      - 🇳🇱 荷兰  21
+      - 🇳🇱 荷兰  22
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 24
+      - 🇳🇱 荷兰  32
+      - 🇳🇱 荷兰  33
+      - 🇺🇸 美国CloudFlare公司CDN节点 37 2
+      - 🇮🇳 印度  39
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 44
+      - 🇺🇸 北美地区  48
+      - 🇩🇰 丹麦哥本哈根Digital VM 51
+      - 🇺🇸 US3
+      - 🇺🇸 美国4
+      - 🇺🇸 US5
+      - 🇺🇸 us
+      - 🇺🇸 美国
+      - 🇬🇧 英国2
+      - 🇺🇸 US4
+      - 🇨🇳 中国 台湾省2
+      - 🇩🇪 德国
+      - 🇬🇧 英国 2
+      - 🇨🇳 中国 台湾省
+      - 🇫🇷 法国
+      - 🇺🇸 US 7
+      - 🇺🇸 美国 2
+      - 🇫🇷 法国 2
+      - 🇭🇰 HK
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇺🇸 美国 亚特兰大3
+      - 🇷🇴 罗马尼亚 布加勒斯特11
+      - 🇷🇴 罗马尼亚4
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚1
+      - 🇷🇴 罗马尼亚 布加勒斯特9
+      - 🇺🇸 美国 亚特兰大5
+      - 🇷🇴 罗马尼亚 布加勒斯特3
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚5
+      - 克罗地亚3
+      - 🇺🇸 美国 洛杉矶
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇺🇸 美国 亚特兰大
+      - 🇬🇧 英国 英格兰
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇫🇷 法国 3
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇺🇸 美国 亚特兰大2
+      - 🇬🇧 英国 3
+      - 🇺🇸 美国 亚特兰大4
+      - 🇷🇴 罗马尼亚7
+      - 🇸🇬 美国 新泽西
+      - 🇮🇳 印度
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -109,36 +274,93 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 🇸🇬 如遇节点失效，请更新订阅
       - "🇨🇳 TG: https://t.me/misakanetworkgroup"
-      - Heroku-IE 1
-      - Heroku-IE 2
-      - Heroku-IE 3
-      - Heroku-IE 4
-      - Heroku-IE 5
-      - Heroku-IE 6
-      - Heroku-IE 7
-      - Heroku-IE 8
-      - Heroku-IE 9
-      - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - Heroku-IE 16
-      - Heroku-IE 17
-      - Heroku-IE 18
-      - Heroku-IE 19
-      - Heroku-IE 20
       - 🇺🇸 黑洞-美国
-      - 🇬🇧 英国(自由之梦免费节点-倒卖举报) 2
-      - 智能线路01
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰01
       - 立陶宛01
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 美国CloudFlare公司CDN节点 37
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 9
+      - 🇺🇸 美国  11
+      - 🇳🇱 荷兰  13
+      - 🇳🇱 荷兰  15
+      - 🇳🇱 荷兰  17
+      - 🇳🇱 荷兰  18
+      - 🇺🇸 美国赛基诺州立大学 20
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国  27
+      - 🇮🇳 印度  31
+      - 🇺🇸 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 32
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 33
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 34
+      - 🇺🇸 北美地区  38
+      - 🇺🇸 美国  40
+      - 🇰🇷 韩国首尔Amazon数据中心 2
+      - 葡萄牙  8
+      - 🇺🇸 美国  9
+      - 匈牙利  12
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇳🇱 荷兰  16
+      - 🇳🇱 荷兰  18 2
+      - 🇳🇱 荷兰  21
+      - 🇳🇱 荷兰  22
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 24
+      - 🇳🇱 荷兰  32
+      - 🇳🇱 荷兰  33
+      - 🇺🇸 美国CloudFlare公司CDN节点 37 2
+      - 🇮🇳 印度  39
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 44
+      - 🇺🇸 北美地区  48
+      - 🇩🇰 丹麦哥本哈根Digital VM 51
+      - 🇺🇸 US3
+      - 🇺🇸 美国4
+      - 🇺🇸 US5
+      - 🇺🇸 us
+      - 🇺🇸 美国
+      - 🇬🇧 英国2
+      - 🇺🇸 US4
+      - 🇨🇳 中国 台湾省2
+      - 🇩🇪 德国
+      - 🇬🇧 英国 2
+      - 🇨🇳 中国 台湾省
+      - 🇫🇷 法国
+      - 🇺🇸 US 7
+      - 🇺🇸 美国 2
+      - 🇫🇷 法国 2
+      - 🇭🇰 HK
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇺🇸 美国 亚特兰大3
+      - 🇷🇴 罗马尼亚 布加勒斯特11
+      - 🇷🇴 罗马尼亚4
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚1
+      - 🇷🇴 罗马尼亚 布加勒斯特9
+      - 🇺🇸 美国 亚特兰大5
+      - 🇷🇴 罗马尼亚 布加勒斯特3
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚5
+      - 克罗地亚3
+      - 🇺🇸 美国 洛杉矶
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇺🇸 美国 亚特兰大
+      - 🇬🇧 英国 英格兰
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇫🇷 法国 3
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇺🇸 美国 亚特兰大2
+      - 🇬🇧 英国 3
+      - 🇺🇸 美国 亚特兰大4
+      - 🇷🇴 罗马尼亚7
+      - 🇸🇬 美国 新泽西
+      - 🇮🇳 印度
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
       - "🇨🇳 TG: https://t.me/misakanetworkgroup"
+      - 🇨🇳 中国 台湾省2
+      - 🇨🇳 中国 台湾省
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -148,31 +370,86 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 🇸🇬 如遇节点失效，请更新订阅
       - "🇨🇳 TG: https://t.me/misakanetworkgroup"
-      - Heroku-IE 1
-      - Heroku-IE 2
-      - Heroku-IE 3
-      - Heroku-IE 4
-      - Heroku-IE 5
-      - Heroku-IE 6
-      - Heroku-IE 7
-      - Heroku-IE 8
-      - Heroku-IE 9
-      - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - Heroku-IE 16
-      - Heroku-IE 17
-      - Heroku-IE 18
-      - Heroku-IE 19
-      - Heroku-IE 20
       - 🇺🇸 黑洞-美国
-      - 🇬🇧 英国(自由之梦免费节点-倒卖举报) 2
-      - 智能线路01
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰01
       - 立陶宛01
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 美国CloudFlare公司CDN节点 37
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 9
+      - 🇺🇸 美国  11
+      - 🇳🇱 荷兰  13
+      - 🇳🇱 荷兰  15
+      - 🇳🇱 荷兰  17
+      - 🇳🇱 荷兰  18
+      - 🇺🇸 美国赛基诺州立大学 20
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国  27
+      - 🇮🇳 印度  31
+      - 🇺🇸 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 32
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 33
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 34
+      - 🇺🇸 北美地区  38
+      - 🇺🇸 美国  40
+      - 🇰🇷 韩国首尔Amazon数据中心 2
+      - 葡萄牙  8
+      - 🇺🇸 美国  9
+      - 匈牙利  12
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇳🇱 荷兰  16
+      - 🇳🇱 荷兰  18 2
+      - 🇳🇱 荷兰  21
+      - 🇳🇱 荷兰  22
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 24
+      - 🇳🇱 荷兰  32
+      - 🇳🇱 荷兰  33
+      - 🇺🇸 美国CloudFlare公司CDN节点 37 2
+      - 🇮🇳 印度  39
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 44
+      - 🇺🇸 北美地区  48
+      - 🇩🇰 丹麦哥本哈根Digital VM 51
+      - 🇺🇸 US3
+      - 🇺🇸 美国4
+      - 🇺🇸 US5
+      - 🇺🇸 us
+      - 🇺🇸 美国
+      - 🇬🇧 英国2
+      - 🇺🇸 US4
+      - 🇨🇳 中国 台湾省2
+      - 🇩🇪 德国
+      - 🇬🇧 英国 2
+      - 🇨🇳 中国 台湾省
+      - 🇫🇷 法国
+      - 🇺🇸 US 7
+      - 🇺🇸 美国 2
+      - 🇫🇷 法国 2
+      - 🇭🇰 HK
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇺🇸 美国 亚特兰大3
+      - 🇷🇴 罗马尼亚 布加勒斯特11
+      - 🇷🇴 罗马尼亚4
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚1
+      - 🇷🇴 罗马尼亚 布加勒斯特9
+      - 🇺🇸 美国 亚特兰大5
+      - 🇷🇴 罗马尼亚 布加勒斯特3
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚5
+      - 克罗地亚3
+      - 🇺🇸 美国 洛杉矶
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇺🇸 美国 亚特兰大
+      - 🇬🇧 英国 英格兰
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇫🇷 法国 3
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇺🇸 美国 亚特兰大2
+      - 🇬🇧 英国 3
+      - 🇺🇸 美国 亚特兰大4
+      - 🇷🇴 罗马尼亚7
+      - 🇸🇬 美国 新泽西
+      - 🇮🇳 印度
   - name: 📲 电报信息
     type: select
     proxies:
@@ -181,31 +458,86 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 🇸🇬 如遇节点失效，请更新订阅
       - "🇨🇳 TG: https://t.me/misakanetworkgroup"
-      - Heroku-IE 1
-      - Heroku-IE 2
-      - Heroku-IE 3
-      - Heroku-IE 4
-      - Heroku-IE 5
-      - Heroku-IE 6
-      - Heroku-IE 7
-      - Heroku-IE 8
-      - Heroku-IE 9
-      - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - Heroku-IE 16
-      - Heroku-IE 17
-      - Heroku-IE 18
-      - Heroku-IE 19
-      - Heroku-IE 20
       - 🇺🇸 黑洞-美国
-      - 🇬🇧 英国(自由之梦免费节点-倒卖举报) 2
-      - 智能线路01
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰01
       - 立陶宛01
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 美国CloudFlare公司CDN节点 37
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 9
+      - 🇺🇸 美国  11
+      - 🇳🇱 荷兰  13
+      - 🇳🇱 荷兰  15
+      - 🇳🇱 荷兰  17
+      - 🇳🇱 荷兰  18
+      - 🇺🇸 美国赛基诺州立大学 20
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国  27
+      - 🇮🇳 印度  31
+      - 🇺🇸 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 32
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 33
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 34
+      - 🇺🇸 北美地区  38
+      - 🇺🇸 美国  40
+      - 🇰🇷 韩国首尔Amazon数据中心 2
+      - 葡萄牙  8
+      - 🇺🇸 美国  9
+      - 匈牙利  12
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇳🇱 荷兰  16
+      - 🇳🇱 荷兰  18 2
+      - 🇳🇱 荷兰  21
+      - 🇳🇱 荷兰  22
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 24
+      - 🇳🇱 荷兰  32
+      - 🇳🇱 荷兰  33
+      - 🇺🇸 美国CloudFlare公司CDN节点 37 2
+      - 🇮🇳 印度  39
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 44
+      - 🇺🇸 北美地区  48
+      - 🇩🇰 丹麦哥本哈根Digital VM 51
+      - 🇺🇸 US3
+      - 🇺🇸 美国4
+      - 🇺🇸 US5
+      - 🇺🇸 us
+      - 🇺🇸 美国
+      - 🇬🇧 英国2
+      - 🇺🇸 US4
+      - 🇨🇳 中国 台湾省2
+      - 🇩🇪 德国
+      - 🇬🇧 英国 2
+      - 🇨🇳 中国 台湾省
+      - 🇫🇷 法国
+      - 🇺🇸 US 7
+      - 🇺🇸 美国 2
+      - 🇫🇷 法国 2
+      - 🇭🇰 HK
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇺🇸 美国 亚特兰大3
+      - 🇷🇴 罗马尼亚 布加勒斯特11
+      - 🇷🇴 罗马尼亚4
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚1
+      - 🇷🇴 罗马尼亚 布加勒斯特9
+      - 🇺🇸 美国 亚特兰大5
+      - 🇷🇴 罗马尼亚 布加勒斯特3
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚5
+      - 克罗地亚3
+      - 🇺🇸 美国 洛杉矶
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇺🇸 美国 亚特兰大
+      - 🇬🇧 英国 英格兰
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇫🇷 法国 3
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇺🇸 美国 亚特兰大2
+      - 🇬🇧 英国 3
+      - 🇺🇸 美国 亚特兰大4
+      - 🇷🇴 罗马尼亚7
+      - 🇸🇬 美国 新泽西
+      - 🇮🇳 印度
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -215,31 +547,86 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 🇸🇬 如遇节点失效，请更新订阅
       - "🇨🇳 TG: https://t.me/misakanetworkgroup"
-      - Heroku-IE 1
-      - Heroku-IE 2
-      - Heroku-IE 3
-      - Heroku-IE 4
-      - Heroku-IE 5
-      - Heroku-IE 6
-      - Heroku-IE 7
-      - Heroku-IE 8
-      - Heroku-IE 9
-      - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - Heroku-IE 16
-      - Heroku-IE 17
-      - Heroku-IE 18
-      - Heroku-IE 19
-      - Heroku-IE 20
       - 🇺🇸 黑洞-美国
-      - 🇬🇧 英国(自由之梦免费节点-倒卖举报) 2
-      - 智能线路01
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰01
       - 立陶宛01
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 美国CloudFlare公司CDN节点 37
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 9
+      - 🇺🇸 美国  11
+      - 🇳🇱 荷兰  13
+      - 🇳🇱 荷兰  15
+      - 🇳🇱 荷兰  17
+      - 🇳🇱 荷兰  18
+      - 🇺🇸 美国赛基诺州立大学 20
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国  27
+      - 🇮🇳 印度  31
+      - 🇺🇸 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 32
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 33
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 34
+      - 🇺🇸 北美地区  38
+      - 🇺🇸 美国  40
+      - 🇰🇷 韩国首尔Amazon数据中心 2
+      - 葡萄牙  8
+      - 🇺🇸 美国  9
+      - 匈牙利  12
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇳🇱 荷兰  16
+      - 🇳🇱 荷兰  18 2
+      - 🇳🇱 荷兰  21
+      - 🇳🇱 荷兰  22
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 24
+      - 🇳🇱 荷兰  32
+      - 🇳🇱 荷兰  33
+      - 🇺🇸 美国CloudFlare公司CDN节点 37 2
+      - 🇮🇳 印度  39
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 44
+      - 🇺🇸 北美地区  48
+      - 🇩🇰 丹麦哥本哈根Digital VM 51
+      - 🇺🇸 US3
+      - 🇺🇸 美国4
+      - 🇺🇸 US5
+      - 🇺🇸 us
+      - 🇺🇸 美国
+      - 🇬🇧 英国2
+      - 🇺🇸 US4
+      - 🇨🇳 中国 台湾省2
+      - 🇩🇪 德国
+      - 🇬🇧 英国 2
+      - 🇨🇳 中国 台湾省
+      - 🇫🇷 法国
+      - 🇺🇸 US 7
+      - 🇺🇸 美国 2
+      - 🇫🇷 法国 2
+      - 🇭🇰 HK
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇺🇸 美国 亚特兰大3
+      - 🇷🇴 罗马尼亚 布加勒斯特11
+      - 🇷🇴 罗马尼亚4
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚1
+      - 🇷🇴 罗马尼亚 布加勒斯特9
+      - 🇺🇸 美国 亚特兰大5
+      - 🇷🇴 罗马尼亚 布加勒斯特3
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚5
+      - 克罗地亚3
+      - 🇺🇸 美国 洛杉矶
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇺🇸 美国 亚特兰大
+      - 🇬🇧 英国 英格兰
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇫🇷 法国 3
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇺🇸 美国 亚特兰大2
+      - 🇬🇧 英国 3
+      - 🇺🇸 美国 亚特兰大4
+      - 🇷🇴 罗马尼亚7
+      - 🇸🇬 美国 新泽西
+      - 🇮🇳 印度
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -258,31 +645,86 @@ proxy-groups:
       - 网站：https://misakanode.cf
       - 🇸🇬 如遇节点失效，请更新订阅
       - "🇨🇳 TG: https://t.me/misakanetworkgroup"
-      - Heroku-IE 1
-      - Heroku-IE 2
-      - Heroku-IE 3
-      - Heroku-IE 4
-      - Heroku-IE 5
-      - Heroku-IE 6
-      - Heroku-IE 7
-      - Heroku-IE 8
-      - Heroku-IE 9
-      - Heroku-IE 10
-      - Heroku-IE 11
-      - Heroku-IE 12
-      - Heroku-IE 13
-      - Heroku-IE 14
-      - Heroku-IE 15
-      - Heroku-IE 16
-      - Heroku-IE 17
-      - Heroku-IE 18
-      - Heroku-IE 19
-      - Heroku-IE 20
       - 🇺🇸 黑洞-美国
-      - 🇬🇧 英国(自由之梦免费节点-倒卖举报) 2
-      - 智能线路01
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰01
       - 立陶宛01
-      - 🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 37
+      - 🇺🇸 美国CloudFlare公司CDN节点 37
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 9
+      - 🇺🇸 美国  11
+      - 🇳🇱 荷兰  13
+      - 🇳🇱 荷兰  15
+      - 🇳🇱 荷兰  17
+      - 🇳🇱 荷兰  18
+      - 🇺🇸 美国赛基诺州立大学 20
+      - 🇺🇸 美国CloudFlare公司CDN节点 23
+      - 🇺🇸 美国  27
+      - 🇮🇳 印度  31
+      - 🇺🇸 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 32
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 33
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 34
+      - 🇺🇸 北美地区  38
+      - 🇺🇸 美国  40
+      - 🇰🇷 韩国首尔Amazon数据中心 2
+      - 葡萄牙  8
+      - 🇺🇸 美国  9
+      - 匈牙利  12
+      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 14
+      - 🇳🇱 荷兰  16
+      - 🇳🇱 荷兰  18 2
+      - 🇳🇱 荷兰  21
+      - 🇳🇱 荷兰  22
+      - 🇺🇸 美国乔治亚洲亚特兰大Choopa数据中心 24
+      - 🇳🇱 荷兰  32
+      - 🇳🇱 荷兰  33
+      - 🇺🇸 美国CloudFlare公司CDN节点 37 2
+      - 🇮🇳 印度  39
+      - 🇸🇬 美国新泽西州皮斯卡特维Choopa数据中心 44
+      - 🇺🇸 北美地区  48
+      - 🇩🇰 丹麦哥本哈根Digital VM 51
+      - 🇺🇸 US3
+      - 🇺🇸 美国4
+      - 🇺🇸 US5
+      - 🇺🇸 us
+      - 🇺🇸 美国
+      - 🇬🇧 英国2
+      - 🇺🇸 US4
+      - 🇨🇳 中国 台湾省2
+      - 🇩🇪 德国
+      - 🇬🇧 英国 2
+      - 🇨🇳 中国 台湾省
+      - 🇫🇷 法国
+      - 🇺🇸 US 7
+      - 🇺🇸 美国 2
+      - 🇫🇷 法国 2
+      - 🇭🇰 HK
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇺🇸 美国 亚特兰大3
+      - 🇷🇴 罗马尼亚 布加勒斯特11
+      - 🇷🇴 罗马尼亚4
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚1
+      - 🇷🇴 罗马尼亚 布加勒斯特9
+      - 🇺🇸 美国 亚特兰大5
+      - 🇷🇴 罗马尼亚 布加勒斯特3
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚5
+      - 克罗地亚3
+      - 🇺🇸 美国 洛杉矶
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇺🇸 美国 亚特兰大
+      - 🇬🇧 英国 英格兰
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇫🇷 法国 3
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇺🇸 美国 亚特兰大2
+      - 🇬🇧 英国 3
+      - 🇺🇸 美国 亚特兰大4
+      - 🇷🇴 罗马尼亚7
+      - 🇸🇬 美国 新泽西
+      - 🇮🇳 印度
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
