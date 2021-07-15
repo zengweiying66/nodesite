@@ -79,6 +79,7 @@ proxies:
   - {name: 🇬🇧 英国（感谢关注youtube：8度科技） 2, server: 185.44.76.188, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
   - {name: 🇮🇳 印度（感谢关注youtube：8度科技）, server: 137.59.52.107, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
   - {name: 🇺🇸 US（感谢关注youtube：8度科技）, server: 104.200.131.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 黑洞-美国, server: 173.82.23.189, port: 443, type: vmess, uuid: 8665542a-60ec-427f-96a0-f2a5065aadae, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: path/060734070034, ws-headers: {Host: www.27804367.xyz}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -159,6 +160,7 @@ proxy-groups:
       - 🇬🇧 英国（感谢关注youtube：8度科技） 2
       - 🇮🇳 印度（感谢关注youtube：8度科技）
       - 🇺🇸 US（感谢关注youtube：8度科技）
+      - 🇺🇸 黑洞-美国
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -238,6 +240,7 @@ proxy-groups:
       - 🇬🇧 英国（感谢关注youtube：8度科技） 2
       - 🇮🇳 印度（感谢关注youtube：8度科技）
       - 🇺🇸 US（感谢关注youtube：8度科技）
+      - 🇺🇸 黑洞-美国
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -318,6 +321,7 @@ proxy-groups:
       - 🇬🇧 英国（感谢关注youtube：8度科技） 2
       - 🇮🇳 印度（感谢关注youtube：8度科技）
       - 🇺🇸 US（感谢关注youtube：8度科技）
+      - 🇺🇸 黑洞-美国
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -403,6 +407,7 @@ proxy-groups:
       - 🇬🇧 英国（感谢关注youtube：8度科技） 2
       - 🇮🇳 印度（感谢关注youtube：8度科技）
       - 🇺🇸 US（感谢关注youtube：8度科技）
+      - 🇺🇸 黑洞-美国
   - name: 📲 电报信息
     type: select
     proxies:
@@ -482,6 +487,7 @@ proxy-groups:
       - 🇬🇧 英国（感谢关注youtube：8度科技） 2
       - 🇮🇳 印度（感谢关注youtube：8度科技）
       - 🇺🇸 US（感谢关注youtube：8度科技）
+      - 🇺🇸 黑洞-美国
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -562,6 +568,7 @@ proxy-groups:
       - 🇬🇧 英国（感谢关注youtube：8度科技） 2
       - 🇮🇳 印度（感谢关注youtube：8度科技）
       - 🇺🇸 US（感谢关注youtube：8度科技）
+      - 🇺🇸 黑洞-美国
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -651,6 +658,7 @@ proxy-groups:
       - 🇬🇧 英国（感谢关注youtube：8度科技） 2
       - 🇮🇳 印度（感谢关注youtube：8度科技）
       - 🇺🇸 US（感谢关注youtube：8度科技）
+      - 🇺🇸 黑洞-美国
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
