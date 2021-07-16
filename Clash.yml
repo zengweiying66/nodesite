@@ -52,6 +52,9 @@ proxies:
   - {name: 🇳🇱 荷兰 4, server: 46.182.107.165, port: 443, type: vmess, uuid: d3133484-f2bf-4b0c-8d38-f8e645b65687, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.07890885.xyz}}
   - {name: 🇭🇰 香港 2, server: 42.236.94.1, port: 80, type: vmess, uuid: dd390688-1fe8-42c2-a951-33ab9c773f49, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 002.cdn.8x.cx.hit.edu.cn}}
   - {name: 🇺🇲 美国 4, server: 104.18.27.64, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇭🇰 中国香港-无限联通免流, server: 18.166.31.194, port: 80, type: vmess, uuid: 732ada90-3ad1-45bd-bd37-fb5fe1b9007c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
+  - {name: 🇺🇲 美国西雅图-1TB联通免流, server: 172.83.155.244, port: 80, type: vmess, uuid: 732ada90-3ad1-45bd-bd37-fb5fe1b9007c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
+  - {name: 🇺🇲 美国西雅图-2TB联通免流, server: 107.191.112.214, port: 80, type: vmess, uuid: 732ada90-3ad1-45bd-bd37-fb5fe1b9007c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -105,6 +108,9 @@ proxy-groups:
       - 🇳🇱 荷兰 4
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
+      - 🇭🇰 中国香港-无限联通免流
+      - 🇺🇲 美国西雅图-1TB联通免流
+      - 🇺🇲 美国西雅图-2TB联通免流
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -158,6 +164,9 @@ proxy-groups:
       - 🇳🇱 荷兰 4
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
+      - 🇭🇰 中国香港-无限联通免流
+      - 🇺🇲 美国西雅图-1TB联通免流
+      - 🇺🇲 美国西雅图-2TB联通免流
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -211,6 +220,9 @@ proxy-groups:
       - 🇳🇱 荷兰 4
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
+      - 🇭🇰 中国香港-无限联通免流
+      - 🇺🇲 美国西雅图-1TB联通免流
+      - 🇺🇲 美国西雅图-2TB联通免流
   - name: 📲 电报信息
     type: select
     proxies:
@@ -263,6 +275,9 @@ proxy-groups:
       - 🇳🇱 荷兰 4
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
+      - 🇭🇰 中国香港-无限联通免流
+      - 🇺🇲 美国西雅图-1TB联通免流
+      - 🇺🇲 美国西雅图-2TB联通免流
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -315,6 +330,9 @@ proxy-groups:
       - 🇳🇱 荷兰 4
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
+      - 🇭🇰 中国香港-无限联通免流
+      - 🇺🇲 美国西雅图-1TB联通免流
+      - 🇺🇲 美国西雅图-2TB联通免流
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -367,6 +385,9 @@ proxy-groups:
       - 🇳🇱 荷兰 4
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
+      - 🇭🇰 中国香港-无限联通免流
+      - 🇺🇲 美国西雅图-1TB联通免流
+      - 🇺🇲 美国西雅图-2TB联通免流
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -420,6 +441,9 @@ proxy-groups:
       - 🇳🇱 荷兰 4
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
+      - 🇭🇰 中国香港-无限联通免流
+      - 🇺🇲 美国西雅图-1TB联通免流
+      - 🇺🇲 美国西雅图-2TB联通免流
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -489,6 +513,9 @@ proxy-groups:
       - 🇳🇱 荷兰 4
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
+      - 🇭🇰 中国香港-无限联通免流
+      - 🇺🇲 美国西雅图-1TB联通免流
+      - 🇺🇲 美国西雅图-2TB联通免流
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
