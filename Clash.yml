@@ -31,13 +31,11 @@ proxies:
   - {name: Heroku-IE 20, server: 162.159.211.38, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, ws-headers: {Host: hhh2.xdecloud.tk}}
   - {name: 🇭🇰 香港, server: 18.166.214.33, port: 80, type: vmess, uuid: cc8b49a6-577c-466e-aa6f-d941a4c37e70, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
   - {name: 🇺🇲 美国内华达州拉斯维加斯BuyVM数据中心 4, server: a7.ssrsub.one, port: 443, type: trojan, password: A24HRtle, sni: a7.ssrsub.one}
-  - {name: 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 7, server: 96.43.91.58, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
   - {name: 🇳🇱 荷兰  16, server: 46.182.107.146, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca4690dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.44590130.xyz}}
   - {name: 🇺🇲 美国  23, server: 135.125.207.34, port: 80, type: vmess, uuid: e2816152-6326-4cf9-aa95-34b0f9a8c666, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 135.125.207.34}}
   - {name: 🇺🇲 美国CloudFlare公司CDN节点 26, server: 104.19.45.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: 🇺🇲 美国CloudFlare公司CDN节点 28, server: 104.18.6.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: 🇺🇲 美国CloudFlare公司CDN节点 31, server: 104.18.7.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: 🇯🇵 日本东京Amazon数据中心 38, server: 54.199.6.184, port: 65432, type: vmess, uuid: d13634e2-9cd3-4947-ac45-10652da4d147, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.199.6.184}}
   - {name: 🇺🇲 美国CloudFlare节点 42, server: ip.codeforces.live, port: 443, type: vmess, uuid: e6397eda-dd27-4832-a693-b3fb156ec0f3, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /233blog, ws-headers: {Host: rn.ddns1312.top}}
   - {name: 🇸🇬 新加坡公益节点, server: lovfree.comb.yigeweizhuang.com, port: 443, type: vmess, uuid: 6fd9c7fe-d7bd-4277-85fc-f206de51ab3b, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /lovfree.com, ws-headers: {Host: lovfree.comb.yigeweizhuang.com}}
   - {name: 🇰🇷 韩国公益节点, server: lovfree.coma.yigeweizhuang.com, port: 443, type: vmess, uuid: dca7cafb-0828-465c-b6e7-812b241ad538, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /lovfree.com, ws-headers: {Host: lovfree.coma.yigeweizhuang.com}}
@@ -52,14 +50,8 @@ proxies:
   - {name: 🇳🇱 荷兰 3, server: 46.182.107.157, port: 443, type: vmess, uuid: 20b30916-e203-412e-8ec0-900f3acd5128, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73345741.xyz}}
   - {name: 🇩🇪 德国 3, server: ss.de.sshmax.net, port: 21474, type: ss, cipher: chacha20-ietf-poly1305, password: cWv8FcJk0VpS}
   - {name: 🇳🇱 荷兰 4, server: 46.182.107.165, port: 443, type: vmess, uuid: d3133484-f2bf-4b0c-8d38-f8e645b65687, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.07890885.xyz}}
-  - {name: 🇳🇱 荷兰 5, server: 46.182.107.94, port: 443, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.54872833.xyz}}
   - {name: 🇭🇰 香港 2, server: 42.236.94.1, port: 80, type: vmess, uuid: dd390688-1fe8-42c2-a951-33ab9c773f49, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 002.cdn.8x.cx.hit.edu.cn}}
-  - {name: 🇺🇲 美国 4, server: 207.244.67.149, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 🇳🇱 荷兰 6, server: 46.182.107.44, port: 443, type: vmess, uuid: fe5f69e7-e183-439b-950b-9661ef0651f2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.68737987.xyz}}
-  - {name: 🇳🇱 荷兰 7, server: 46.182.107.39, port: 443, type: vmess, uuid: d3133484-f2bf-4b0c-8d38-f8e645b65687, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.07890885.xyz}}
-  - {name: 🇺🇲 美国 5, server: 104.18.27.64, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: 🇺🇲 美国 6, server: 198.8.92.84, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 🇳🇱 荷兰  10, server: 46.182.107.93, port: 443, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.54872833.xyz}}
+  - {name: 🇺🇲 美国 4, server: 104.18.27.64, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -92,13 +84,11 @@ proxy-groups:
       - Heroku-IE 20
       - 🇭🇰 香港
       - 🇺🇲 美国内华达州拉斯维加斯BuyVM数据中心 4
-      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 7
       - 🇳🇱 荷兰  16
       - 🇺🇲 美国  23
       - 🇺🇲 美国CloudFlare公司CDN节点 26
       - 🇺🇲 美国CloudFlare公司CDN节点 28
       - 🇺🇲 美国CloudFlare公司CDN节点 31
-      - 🇯🇵 日本东京Amazon数据中心 38
       - 🇺🇲 美国CloudFlare节点 42
       - 🇸🇬 新加坡公益节点
       - 🇰🇷 韩国公益节点
@@ -113,14 +103,8 @@ proxy-groups:
       - 🇳🇱 荷兰 3
       - 🇩🇪 德国 3
       - 🇳🇱 荷兰 4
-      - 🇳🇱 荷兰 5
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
-      - 🇳🇱 荷兰 6
-      - 🇳🇱 荷兰 7
-      - 🇺🇲 美国 5
-      - 🇺🇲 美国 6
-      - 🇳🇱 荷兰  10
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -153,13 +137,11 @@ proxy-groups:
       - Heroku-IE 20
       - 🇭🇰 香港
       - 🇺🇲 美国内华达州拉斯维加斯BuyVM数据中心 4
-      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 7
       - 🇳🇱 荷兰  16
       - 🇺🇲 美国  23
       - 🇺🇲 美国CloudFlare公司CDN节点 26
       - 🇺🇲 美国CloudFlare公司CDN节点 28
       - 🇺🇲 美国CloudFlare公司CDN节点 31
-      - 🇯🇵 日本东京Amazon数据中心 38
       - 🇺🇲 美国CloudFlare节点 42
       - 🇸🇬 新加坡公益节点
       - 🇰🇷 韩国公益节点
@@ -174,14 +156,8 @@ proxy-groups:
       - 🇳🇱 荷兰 3
       - 🇩🇪 德国 3
       - 🇳🇱 荷兰 4
-      - 🇳🇱 荷兰 5
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
-      - 🇳🇱 荷兰 6
-      - 🇳🇱 荷兰 7
-      - 🇺🇲 美国 5
-      - 🇺🇲 美国 6
-      - 🇳🇱 荷兰  10
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -214,13 +190,11 @@ proxy-groups:
       - Heroku-IE 20
       - 🇭🇰 香港
       - 🇺🇲 美国内华达州拉斯维加斯BuyVM数据中心 4
-      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 7
       - 🇳🇱 荷兰  16
       - 🇺🇲 美国  23
       - 🇺🇲 美国CloudFlare公司CDN节点 26
       - 🇺🇲 美国CloudFlare公司CDN节点 28
       - 🇺🇲 美国CloudFlare公司CDN节点 31
-      - 🇯🇵 日本东京Amazon数据中心 38
       - 🇺🇲 美国CloudFlare节点 42
       - 🇸🇬 新加坡公益节点
       - 🇰🇷 韩国公益节点
@@ -235,14 +209,8 @@ proxy-groups:
       - 🇳🇱 荷兰 3
       - 🇩🇪 德国 3
       - 🇳🇱 荷兰 4
-      - 🇳🇱 荷兰 5
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
-      - 🇳🇱 荷兰 6
-      - 🇳🇱 荷兰 7
-      - 🇺🇲 美国 5
-      - 🇺🇲 美国 6
-      - 🇳🇱 荷兰  10
   - name: 📲 电报信息
     type: select
     proxies:
@@ -274,13 +242,11 @@ proxy-groups:
       - Heroku-IE 20
       - 🇭🇰 香港
       - 🇺🇲 美国内华达州拉斯维加斯BuyVM数据中心 4
-      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 7
       - 🇳🇱 荷兰  16
       - 🇺🇲 美国  23
       - 🇺🇲 美国CloudFlare公司CDN节点 26
       - 🇺🇲 美国CloudFlare公司CDN节点 28
       - 🇺🇲 美国CloudFlare公司CDN节点 31
-      - 🇯🇵 日本东京Amazon数据中心 38
       - 🇺🇲 美国CloudFlare节点 42
       - 🇸🇬 新加坡公益节点
       - 🇰🇷 韩国公益节点
@@ -295,14 +261,8 @@ proxy-groups:
       - 🇳🇱 荷兰 3
       - 🇩🇪 德国 3
       - 🇳🇱 荷兰 4
-      - 🇳🇱 荷兰 5
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
-      - 🇳🇱 荷兰 6
-      - 🇳🇱 荷兰 7
-      - 🇺🇲 美国 5
-      - 🇺🇲 美国 6
-      - 🇳🇱 荷兰  10
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -334,13 +294,11 @@ proxy-groups:
       - Heroku-IE 20
       - 🇭🇰 香港
       - 🇺🇲 美国内华达州拉斯维加斯BuyVM数据中心 4
-      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 7
       - 🇳🇱 荷兰  16
       - 🇺🇲 美国  23
       - 🇺🇲 美国CloudFlare公司CDN节点 26
       - 🇺🇲 美国CloudFlare公司CDN节点 28
       - 🇺🇲 美国CloudFlare公司CDN节点 31
-      - 🇯🇵 日本东京Amazon数据中心 38
       - 🇺🇲 美国CloudFlare节点 42
       - 🇸🇬 新加坡公益节点
       - 🇰🇷 韩国公益节点
@@ -355,14 +313,8 @@ proxy-groups:
       - 🇳🇱 荷兰 3
       - 🇩🇪 德国 3
       - 🇳🇱 荷兰 4
-      - 🇳🇱 荷兰 5
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
-      - 🇳🇱 荷兰 6
-      - 🇳🇱 荷兰 7
-      - 🇺🇲 美国 5
-      - 🇺🇲 美国 6
-      - 🇳🇱 荷兰  10
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -394,13 +346,11 @@ proxy-groups:
       - Heroku-IE 20
       - 🇭🇰 香港
       - 🇺🇲 美国内华达州拉斯维加斯BuyVM数据中心 4
-      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 7
       - 🇳🇱 荷兰  16
       - 🇺🇲 美国  23
       - 🇺🇲 美国CloudFlare公司CDN节点 26
       - 🇺🇲 美国CloudFlare公司CDN节点 28
       - 🇺🇲 美国CloudFlare公司CDN节点 31
-      - 🇯🇵 日本东京Amazon数据中心 38
       - 🇺🇲 美国CloudFlare节点 42
       - 🇸🇬 新加坡公益节点
       - 🇰🇷 韩国公益节点
@@ -415,14 +365,8 @@ proxy-groups:
       - 🇳🇱 荷兰 3
       - 🇩🇪 德国 3
       - 🇳🇱 荷兰 4
-      - 🇳🇱 荷兰 5
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
-      - 🇳🇱 荷兰 6
-      - 🇳🇱 荷兰 7
-      - 🇺🇲 美国 5
-      - 🇺🇲 美国 6
-      - 🇳🇱 荷兰  10
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -455,13 +399,11 @@ proxy-groups:
       - Heroku-IE 20
       - 🇭🇰 香港
       - 🇺🇲 美国内华达州拉斯维加斯BuyVM数据中心 4
-      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 7
       - 🇳🇱 荷兰  16
       - 🇺🇲 美国  23
       - 🇺🇲 美国CloudFlare公司CDN节点 26
       - 🇺🇲 美国CloudFlare公司CDN节点 28
       - 🇺🇲 美国CloudFlare公司CDN节点 31
-      - 🇯🇵 日本东京Amazon数据中心 38
       - 🇺🇲 美国CloudFlare节点 42
       - 🇸🇬 新加坡公益节点
       - 🇰🇷 韩国公益节点
@@ -476,14 +418,8 @@ proxy-groups:
       - 🇳🇱 荷兰 3
       - 🇩🇪 德国 3
       - 🇳🇱 荷兰 4
-      - 🇳🇱 荷兰 5
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
-      - 🇳🇱 荷兰 6
-      - 🇳🇱 荷兰 7
-      - 🇺🇲 美国 5
-      - 🇺🇲 美国 6
-      - 🇳🇱 荷兰  10
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -532,13 +468,11 @@ proxy-groups:
       - Heroku-IE 20
       - 🇭🇰 香港
       - 🇺🇲 美国内华达州拉斯维加斯BuyVM数据中心 4
-      - 🇦🇨 美国加利福尼亚州洛杉矶MULTACOM数据中心 7
       - 🇳🇱 荷兰  16
       - 🇺🇲 美国  23
       - 🇺🇲 美国CloudFlare公司CDN节点 26
       - 🇺🇲 美国CloudFlare公司CDN节点 28
       - 🇺🇲 美国CloudFlare公司CDN节点 31
-      - 🇯🇵 日本东京Amazon数据中心 38
       - 🇺🇲 美国CloudFlare节点 42
       - 🇸🇬 新加坡公益节点
       - 🇰🇷 韩国公益节点
@@ -553,14 +487,8 @@ proxy-groups:
       - 🇳🇱 荷兰 3
       - 🇩🇪 德国 3
       - 🇳🇱 荷兰 4
-      - 🇳🇱 荷兰 5
       - 🇭🇰 香港 2
       - 🇺🇲 美国 4
-      - 🇳🇱 荷兰 6
-      - 🇳🇱 荷兰 7
-      - 🇺🇲 美国 5
-      - 🇺🇲 美国 6
-      - 🇳🇱 荷兰  10
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
