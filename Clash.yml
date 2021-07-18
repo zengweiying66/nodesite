@@ -15,34 +15,36 @@ proxies:
   - {name: 🇭🇰 中国香港-无限联通免流, server: 18.166.31.194, port: 80, type: vmess, uuid: 732ada90-3ad1-45bd-bd37-fb5fe1b9007c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
   - {name: 🇺🇲 美国西雅图-1TB联通免流, server: 172.83.155.244, port: 80, type: vmess, uuid: 732ada90-3ad1-45bd-bd37-fb5fe1b9007c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
   - {name: 🇺🇲 美国西雅图-2TB联通免流, server: 107.191.112.214, port: 80, type: vmess, uuid: 732ada90-3ad1-45bd-bd37-fb5fe1b9007c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
-  - {name: 🇺🇲 美国 2, server: ban4.feiclouddd.me, port: 443, type: vmess, uuid: 6da431e4-d7b1-4f61-b3e2-f3f8d6f03bb8, alterId: 60, cipher: auto, tls: true, network: ws, ws-path: /sdafasfsa, ws-headers: {Host: ban4.feiclouddd.me}}
   - {name: 🇳🇱 荷兰 阿姆斯特丹6, server: 46.182.107.45, port: 443, type: vmess, uuid: fe5f69e7-e183-439b-950b-9661ef0651f2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.68737987.xyz}}
-  - {name: 🇺🇲 美国 3, server: us2.paopao.cf, port: 443, type: vmess, uuid: 7f6b65e4-6d5b-4137-a1dc-d32f4a810239, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /tgzhucaidan, ws-headers: {Host: us2.paopao.cf}}
   - {name: 🇮🇳 印度, server: 137.59.52.107, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 🇫🇷 法国, server: 51.89.99.59, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇷🇴 罗马尼亚1, server: 195.47.194.42, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇷🇴 罗马尼亚3, server: 195.47.194.42, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇷🇴 罗马尼亚7, server: 195.47.194.42, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇺🇲 美国 洛杉矶, server: 198.147.22.87, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
   - {name: 🇺🇲 美国 马纳萨斯, server: 207.244.67.149, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
   - {name: 🇸🇬 美国 新泽西, server: 66.55.148.42, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇺🇲 美国2, server: us2.paopao.cf, port: 443, type: trojan, password: 7f6b65e4-6d5b-4137-a1dc-d32f4a810239, sni: us2.paopao.cf}
-  - {name: 🇺🇲 美国加利福尼亚州旧金山Amazon数据中心 12, server: us-01.yinriver.top, port: 80, type: vmess, uuid: e1aa83ff-b8b5-41b8-a854-fdcd3faa8875, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: us-01.yinriver.top}}
   - {name: 🇮🇳 印度  35, server: 137.59.52.107, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇩🇪 DE-Oberdorla, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: 🇸🇬 Singapore, server: lovfree.comb.yigeweizhuang.com, port: 443, type: vmess, uuid: 6fd9c7fe-d7bd-4277-85fc-f206de51ab3b, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /lovfree.com, ws-headers: {Host: lovfree.comb.yigeweizhuang.com}}
-  - {name: 🇺🇲 US-California, server: 107.167.9.124, port: 443, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.17080100.xyz}}
-  - {name: 🇺🇲 US-NewYork, server: qq1-cloud13.feiclouddd.me, port: 443, type: vmess, uuid: 478055cc-fdb8-404e-b730-c32faa2c7ca1, alterId: 60, cipher: auto, tls: true, network: ws, ws-path: /asdfasdf, ws-headers: {Host: qq1-cloud13.feiclouddd.me}}
   - {name: North Holland-Amsterdam, server: 46.182.107.94, port: 443, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.54872833.xyz}}
   - {name: North Holland-Amsterdam 2, server: 46.182.107.37, port: 443, type: vmess, uuid: 65ea6727-4461-47a7-a5c4-fef2c67f2f79, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.09462550.xyz}}
   - {name: North Holland-Amsterdam 3, server: 46.182.107.93, port: 443, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.54872833.xyz}}
-  - {name: North Holland-Amsterdam 4, server: 46.182.107.157, port: 443, type: vmess, uuid: 20b30916-e203-412e-8ec0-900f3acd5128, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73345741.xyz}}
-  - {name: North Holland-Amsterdam 5, server: 46.182.107.39, port: 443, type: vmess, uuid: d3133484-f2bf-4b0c-8d38-f8e645b65687, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.07890885.xyz}}
-  - {name: North Holland-Amsterdam 6, server: 46.182.107.146, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca4690dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.44590130.xyz}}
-  - {name: North Holland-Amsterdam 7, server: 46.182.107.25, port: 443, type: vmess, uuid: 0a1ab3bd-0431-4da8-ad8a-238367ce4efc, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.11300814.xyz}}
-  - {name: "", server: 132.226.169.93, port: 45623, type: vmess, uuid: 0453154b-db51-4a66-8f7c-0887878cb9a3, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇭🇰 Q102 BGP | 香港 Microsoft, server: 52.81.181.78, port: 21824, type: vmess, uuid: 9cea87a9-07d8-42ef-990a-0cbd5992371d, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 52.81.181.78}}
+  - {name: North Holland-Amsterdam 4, server: 46.182.107.39, port: 443, type: vmess, uuid: d3133484-f2bf-4b0c-8d38-f8e645b65687, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.07890885.xyz}}
+  - {name: North Holland-Amsterdam 5, server: 46.182.107.146, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca4690dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.44590130.xyz}}
+  - {name: North Holland-Amsterdam 6, server: 46.182.107.25, port: 443, type: vmess, uuid: 0a1ab3bd-0431-4da8-ad8a-238367ce4efc, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.11300814.xyz}}
   - {name: 🇦🇨 中转 | 韩国 ORACLE 01·NF, server: azjp.pengui.tools, port: 50000, type: vmess, uuid: fa77a1da-32ee-4b4c-b62c-05d0d3426f4b, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: azjp.pengui.tools}}
+  - {name: 🇺🇲 美国 2, server: 104.19.45.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇳🇱 荷兰 阿姆斯特丹2, server: 46.182.107.157, port: 443, type: vmess, uuid: 20b30916-e203-412e-8ec0-900f3acd5128, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73345741.xyz}}
+  - {name: 🇺🇲 美国03, server: qq1-cloud13.feiclouddd.me, port: 443, type: vmess, uuid: 478055cc-fdb8-404e-b730-c32faa2c7ca1, alterId: 60, cipher: auto, tls: true, network: ws, ws-path: /asdfasdf, ws-headers: {Host: qq1-cloud13.feiclouddd.me}}
+  - {name: 🇩🇪 DE-Oberdorla, server: 172.67.209.58, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇫🇷 法国, server: 51.89.99.59, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特, server: 91.90.123.115, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特 2, server: 91.90.123.115, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特12, server: 91.90.123.115, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特2, server: 91.90.123.115, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特4, server: 91.90.123.115, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇷🇴 罗马尼亚 布加勒斯特7, server: 91.90.123.115, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇷🇴 罗马尼亚2, server: 195.47.194.42, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇷🇴 罗马尼亚6, server: 195.47.194.42, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇷🇴 罗马尼亚7, server: 195.47.194.42, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇲 美国06, server: 198.8.92.84, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 欧洲, server: 138.199.16.137, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 欧洲02, server: 138.199.16.137, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇮🇹 意大利 米兰, server: 82.102.26.117, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -59,34 +61,36 @@ proxy-groups:
       - 🇭🇰 中国香港-无限联通免流
       - 🇺🇲 美国西雅图-1TB联通免流
       - 🇺🇲 美国西雅图-2TB联通免流
-      - 🇺🇲 美国 2
       - 🇳🇱 荷兰 阿姆斯特丹6
-      - 🇺🇲 美国 3
       - 🇮🇳 印度
-      - 🇫🇷 法国
-      - 🇷🇴 罗马尼亚1
-      - 🇷🇴 罗马尼亚3
-      - 🇷🇴 罗马尼亚7
-      - 🇺🇲 美国 洛杉矶
       - 🇺🇲 美国 马纳萨斯
       - 🇸🇬 美国 新泽西
-      - 🇺🇲 美国2
-      - 🇺🇲 美国加利福尼亚州旧金山Amazon数据中心 12
       - 🇮🇳 印度  35
-      - 🇩🇪 DE-Oberdorla
-      - 🇸🇬 Singapore
-      - 🇺🇲 US-California
-      - 🇺🇲 US-NewYork
       - North Holland-Amsterdam
       - North Holland-Amsterdam 2
       - North Holland-Amsterdam 3
       - North Holland-Amsterdam 4
       - North Holland-Amsterdam 5
       - North Holland-Amsterdam 6
-      - North Holland-Amsterdam 7
-      - ""
-      - 🇭🇰 Q102 BGP | 香港 Microsoft
       - 🇦🇨 中转 | 韩国 ORACLE 01·NF
+      - 🇺🇲 美国 2
+      - 🇳🇱 荷兰 阿姆斯特丹2
+      - 🇺🇲 美国03
+      - 🇩🇪 DE-Oberdorla
+      - 🇫🇷 法国
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚7
+      - 🇺🇲 美国06
+      - 欧洲
+      - 欧洲02
+      - 🇮🇹 意大利 米兰
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -103,34 +107,36 @@ proxy-groups:
       - 🇭🇰 中国香港-无限联通免流
       - 🇺🇲 美国西雅图-1TB联通免流
       - 🇺🇲 美国西雅图-2TB联通免流
-      - 🇺🇲 美国 2
       - 🇳🇱 荷兰 阿姆斯特丹6
-      - 🇺🇲 美国 3
       - 🇮🇳 印度
-      - 🇫🇷 法国
-      - 🇷🇴 罗马尼亚1
-      - 🇷🇴 罗马尼亚3
-      - 🇷🇴 罗马尼亚7
-      - 🇺🇲 美国 洛杉矶
       - 🇺🇲 美国 马纳萨斯
       - 🇸🇬 美国 新泽西
-      - 🇺🇲 美国2
-      - 🇺🇲 美国加利福尼亚州旧金山Amazon数据中心 12
       - 🇮🇳 印度  35
-      - 🇩🇪 DE-Oberdorla
-      - 🇸🇬 Singapore
-      - 🇺🇲 US-California
-      - 🇺🇲 US-NewYork
       - North Holland-Amsterdam
       - North Holland-Amsterdam 2
       - North Holland-Amsterdam 3
       - North Holland-Amsterdam 4
       - North Holland-Amsterdam 5
       - North Holland-Amsterdam 6
-      - North Holland-Amsterdam 7
-      - ""
-      - 🇭🇰 Q102 BGP | 香港 Microsoft
       - 🇦🇨 中转 | 韩国 ORACLE 01·NF
+      - 🇺🇲 美国 2
+      - 🇳🇱 荷兰 阿姆斯特丹2
+      - 🇺🇲 美国03
+      - 🇩🇪 DE-Oberdorla
+      - 🇫🇷 法国
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚7
+      - 🇺🇲 美国06
+      - 欧洲
+      - 欧洲02
+      - 🇮🇹 意大利 米兰
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -147,34 +153,36 @@ proxy-groups:
       - 🇭🇰 中国香港-无限联通免流
       - 🇺🇲 美国西雅图-1TB联通免流
       - 🇺🇲 美国西雅图-2TB联通免流
-      - 🇺🇲 美国 2
       - 🇳🇱 荷兰 阿姆斯特丹6
-      - 🇺🇲 美国 3
       - 🇮🇳 印度
-      - 🇫🇷 法国
-      - 🇷🇴 罗马尼亚1
-      - 🇷🇴 罗马尼亚3
-      - 🇷🇴 罗马尼亚7
-      - 🇺🇲 美国 洛杉矶
       - 🇺🇲 美国 马纳萨斯
       - 🇸🇬 美国 新泽西
-      - 🇺🇲 美国2
-      - 🇺🇲 美国加利福尼亚州旧金山Amazon数据中心 12
       - 🇮🇳 印度  35
-      - 🇩🇪 DE-Oberdorla
-      - 🇸🇬 Singapore
-      - 🇺🇲 US-California
-      - 🇺🇲 US-NewYork
       - North Holland-Amsterdam
       - North Holland-Amsterdam 2
       - North Holland-Amsterdam 3
       - North Holland-Amsterdam 4
       - North Holland-Amsterdam 5
       - North Holland-Amsterdam 6
-      - North Holland-Amsterdam 7
-      - ""
-      - 🇭🇰 Q102 BGP | 香港 Microsoft
       - 🇦🇨 中转 | 韩国 ORACLE 01·NF
+      - 🇺🇲 美国 2
+      - 🇳🇱 荷兰 阿姆斯特丹2
+      - 🇺🇲 美国03
+      - 🇩🇪 DE-Oberdorla
+      - 🇫🇷 法国
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚7
+      - 🇺🇲 美国06
+      - 欧洲
+      - 欧洲02
+      - 🇮🇹 意大利 米兰
   - name: 📲 电报信息
     type: select
     proxies:
@@ -190,34 +198,36 @@ proxy-groups:
       - 🇭🇰 中国香港-无限联通免流
       - 🇺🇲 美国西雅图-1TB联通免流
       - 🇺🇲 美国西雅图-2TB联通免流
-      - 🇺🇲 美国 2
       - 🇳🇱 荷兰 阿姆斯特丹6
-      - 🇺🇲 美国 3
       - 🇮🇳 印度
-      - 🇫🇷 法国
-      - 🇷🇴 罗马尼亚1
-      - 🇷🇴 罗马尼亚3
-      - 🇷🇴 罗马尼亚7
-      - 🇺🇲 美国 洛杉矶
       - 🇺🇲 美国 马纳萨斯
       - 🇸🇬 美国 新泽西
-      - 🇺🇲 美国2
-      - 🇺🇲 美国加利福尼亚州旧金山Amazon数据中心 12
       - 🇮🇳 印度  35
-      - 🇩🇪 DE-Oberdorla
-      - 🇸🇬 Singapore
-      - 🇺🇲 US-California
-      - 🇺🇲 US-NewYork
       - North Holland-Amsterdam
       - North Holland-Amsterdam 2
       - North Holland-Amsterdam 3
       - North Holland-Amsterdam 4
       - North Holland-Amsterdam 5
       - North Holland-Amsterdam 6
-      - North Holland-Amsterdam 7
-      - ""
-      - 🇭🇰 Q102 BGP | 香港 Microsoft
       - 🇦🇨 中转 | 韩国 ORACLE 01·NF
+      - 🇺🇲 美国 2
+      - 🇳🇱 荷兰 阿姆斯特丹2
+      - 🇺🇲 美国03
+      - 🇩🇪 DE-Oberdorla
+      - 🇫🇷 法国
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚7
+      - 🇺🇲 美国06
+      - 欧洲
+      - 欧洲02
+      - 🇮🇹 意大利 米兰
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -233,34 +243,36 @@ proxy-groups:
       - 🇭🇰 中国香港-无限联通免流
       - 🇺🇲 美国西雅图-1TB联通免流
       - 🇺🇲 美国西雅图-2TB联通免流
-      - 🇺🇲 美国 2
       - 🇳🇱 荷兰 阿姆斯特丹6
-      - 🇺🇲 美国 3
       - 🇮🇳 印度
-      - 🇫🇷 法国
-      - 🇷🇴 罗马尼亚1
-      - 🇷🇴 罗马尼亚3
-      - 🇷🇴 罗马尼亚7
-      - 🇺🇲 美国 洛杉矶
       - 🇺🇲 美国 马纳萨斯
       - 🇸🇬 美国 新泽西
-      - 🇺🇲 美国2
-      - 🇺🇲 美国加利福尼亚州旧金山Amazon数据中心 12
       - 🇮🇳 印度  35
-      - 🇩🇪 DE-Oberdorla
-      - 🇸🇬 Singapore
-      - 🇺🇲 US-California
-      - 🇺🇲 US-NewYork
       - North Holland-Amsterdam
       - North Holland-Amsterdam 2
       - North Holland-Amsterdam 3
       - North Holland-Amsterdam 4
       - North Holland-Amsterdam 5
       - North Holland-Amsterdam 6
-      - North Holland-Amsterdam 7
-      - ""
-      - 🇭🇰 Q102 BGP | 香港 Microsoft
       - 🇦🇨 中转 | 韩国 ORACLE 01·NF
+      - 🇺🇲 美国 2
+      - 🇳🇱 荷兰 阿姆斯特丹2
+      - 🇺🇲 美国03
+      - 🇩🇪 DE-Oberdorla
+      - 🇫🇷 法国
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚7
+      - 🇺🇲 美国06
+      - 欧洲
+      - 欧洲02
+      - 🇮🇹 意大利 米兰
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -276,34 +288,36 @@ proxy-groups:
       - 🇭🇰 中国香港-无限联通免流
       - 🇺🇲 美国西雅图-1TB联通免流
       - 🇺🇲 美国西雅图-2TB联通免流
-      - 🇺🇲 美国 2
       - 🇳🇱 荷兰 阿姆斯特丹6
-      - 🇺🇲 美国 3
       - 🇮🇳 印度
-      - 🇫🇷 法国
-      - 🇷🇴 罗马尼亚1
-      - 🇷🇴 罗马尼亚3
-      - 🇷🇴 罗马尼亚7
-      - 🇺🇲 美国 洛杉矶
       - 🇺🇲 美国 马纳萨斯
       - 🇸🇬 美国 新泽西
-      - 🇺🇲 美国2
-      - 🇺🇲 美国加利福尼亚州旧金山Amazon数据中心 12
       - 🇮🇳 印度  35
-      - 🇩🇪 DE-Oberdorla
-      - 🇸🇬 Singapore
-      - 🇺🇲 US-California
-      - 🇺🇲 US-NewYork
       - North Holland-Amsterdam
       - North Holland-Amsterdam 2
       - North Holland-Amsterdam 3
       - North Holland-Amsterdam 4
       - North Holland-Amsterdam 5
       - North Holland-Amsterdam 6
-      - North Holland-Amsterdam 7
-      - ""
-      - 🇭🇰 Q102 BGP | 香港 Microsoft
       - 🇦🇨 中转 | 韩国 ORACLE 01·NF
+      - 🇺🇲 美国 2
+      - 🇳🇱 荷兰 阿姆斯特丹2
+      - 🇺🇲 美国03
+      - 🇩🇪 DE-Oberdorla
+      - 🇫🇷 法国
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚7
+      - 🇺🇲 美国06
+      - 欧洲
+      - 欧洲02
+      - 🇮🇹 意大利 米兰
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -320,34 +334,36 @@ proxy-groups:
       - 🇭🇰 中国香港-无限联通免流
       - 🇺🇲 美国西雅图-1TB联通免流
       - 🇺🇲 美国西雅图-2TB联通免流
-      - 🇺🇲 美国 2
       - 🇳🇱 荷兰 阿姆斯特丹6
-      - 🇺🇲 美国 3
       - 🇮🇳 印度
-      - 🇫🇷 法国
-      - 🇷🇴 罗马尼亚1
-      - 🇷🇴 罗马尼亚3
-      - 🇷🇴 罗马尼亚7
-      - 🇺🇲 美国 洛杉矶
       - 🇺🇲 美国 马纳萨斯
       - 🇸🇬 美国 新泽西
-      - 🇺🇲 美国2
-      - 🇺🇲 美国加利福尼亚州旧金山Amazon数据中心 12
       - 🇮🇳 印度  35
-      - 🇩🇪 DE-Oberdorla
-      - 🇸🇬 Singapore
-      - 🇺🇲 US-California
-      - 🇺🇲 US-NewYork
       - North Holland-Amsterdam
       - North Holland-Amsterdam 2
       - North Holland-Amsterdam 3
       - North Holland-Amsterdam 4
       - North Holland-Amsterdam 5
       - North Holland-Amsterdam 6
-      - North Holland-Amsterdam 7
-      - ""
-      - 🇭🇰 Q102 BGP | 香港 Microsoft
       - 🇦🇨 中转 | 韩国 ORACLE 01·NF
+      - 🇺🇲 美国 2
+      - 🇳🇱 荷兰 阿姆斯特丹2
+      - 🇺🇲 美国03
+      - 🇩🇪 DE-Oberdorla
+      - 🇫🇷 法国
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚7
+      - 🇺🇲 美国06
+      - 欧洲
+      - 欧洲02
+      - 🇮🇹 意大利 米兰
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -380,34 +396,36 @@ proxy-groups:
       - 🇭🇰 中国香港-无限联通免流
       - 🇺🇲 美国西雅图-1TB联通免流
       - 🇺🇲 美国西雅图-2TB联通免流
-      - 🇺🇲 美国 2
       - 🇳🇱 荷兰 阿姆斯特丹6
-      - 🇺🇲 美国 3
       - 🇮🇳 印度
-      - 🇫🇷 法国
-      - 🇷🇴 罗马尼亚1
-      - 🇷🇴 罗马尼亚3
-      - 🇷🇴 罗马尼亚7
-      - 🇺🇲 美国 洛杉矶
       - 🇺🇲 美国 马纳萨斯
       - 🇸🇬 美国 新泽西
-      - 🇺🇲 美国2
-      - 🇺🇲 美国加利福尼亚州旧金山Amazon数据中心 12
       - 🇮🇳 印度  35
-      - 🇩🇪 DE-Oberdorla
-      - 🇸🇬 Singapore
-      - 🇺🇲 US-California
-      - 🇺🇲 US-NewYork
       - North Holland-Amsterdam
       - North Holland-Amsterdam 2
       - North Holland-Amsterdam 3
       - North Holland-Amsterdam 4
       - North Holland-Amsterdam 5
       - North Holland-Amsterdam 6
-      - North Holland-Amsterdam 7
-      - ""
-      - 🇭🇰 Q102 BGP | 香港 Microsoft
       - 🇦🇨 中转 | 韩国 ORACLE 01·NF
+      - 🇺🇲 美国 2
+      - 🇳🇱 荷兰 阿姆斯特丹2
+      - 🇺🇲 美国03
+      - 🇩🇪 DE-Oberdorla
+      - 🇫🇷 法国
+      - 🇷🇴 罗马尼亚 布加勒斯特
+      - 🇷🇴 罗马尼亚 布加勒斯特 2
+      - 🇷🇴 罗马尼亚 布加勒斯特12
+      - 🇷🇴 罗马尼亚 布加勒斯特2
+      - 🇷🇴 罗马尼亚 布加勒斯特4
+      - 🇷🇴 罗马尼亚 布加勒斯特7
+      - 🇷🇴 罗马尼亚2
+      - 🇷🇴 罗马尼亚6
+      - 🇷🇴 罗马尼亚7
+      - 🇺🇲 美国06
+      - 欧洲
+      - 欧洲02
+      - 🇮🇹 意大利 米兰
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
