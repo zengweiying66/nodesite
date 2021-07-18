@@ -23,9 +23,9 @@ https://misakanode.cf/Clash.yml
 
 [v2rayn](https://misakanode.cf/v2ray/v2rayN-Core.zip)
 
-[clash for windows x64](https://misakanode.cf/clash/Clash.for.Windows.Setup.0.15.0.exe)
+[clash for windows x64](https://misakanode.cf/clash/Clash.for.Windows.Setup.0.16.3.exe)
 
-[clash for windows x86](https://misakanode.cf/clash/Clash.for.Windows.Setup.0.15.0.ia32.exe)
+[clash for windows x86](https://misakanode.cf/clash/Clash.for.Windows.Setup.0.16.3.ia32.exe)
 
 [Clash.NET x64](https://misakanode.cf/clash/Clash.NET.1.2.3.x64.Setup.exe)
 [绿色版](https://misakanode.cf/clash/Clash.NET.1.2.3.x64.7z)
