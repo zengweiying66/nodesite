@@ -58,7 +58,8 @@ https://m.jdfx.cf/Clash.yml
 
 已修复，请放心食用
 
-# TG频道和群组
+# 官方通知群
+ discord：https://discord.gg/RpDZkdk6Gr
 
 ## 备用订阅地址
 
