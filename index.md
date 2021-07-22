@@ -47,7 +47,7 @@ https://m.jdfx.cf/Clash.yml
 3. ~~目前Clash.NET在食用Heroku系列节点的时候，会全部出现Timeout，而v2ray没什么问题，目前无解~~ 
 
 具体速度看图，测速时间2021 7.22 16:25
-![](https://github.com/zengweiying66/nodesite/blob/gh-pages/1.png)
+![](https://wp.jdfx.cf/1.png)
 
 已修复，请放心食用
 
@@ -58,37 +58,37 @@ https://m.jdfx.cf/Clash.yml
 
 V2ray订阅
 ```
-https://m.jdfx.cf/sub.txt
+https://wp.jdfx.cf/sub.txt
 ```
 
 Clash订阅
 ```
-https://m.jdfx.cf/Clash.yml
+https://wp.jdfx.cf/Clash.yml
 ```
 
-## 软件下载
+## 备用软件下载
 
 #### Windows
 
-[v2rayn](https://m.jdfx.cf/v2ray/v2rayN-Core.zip)
+[v2rayn](https://wp.jdfx.cf/v2ray/v2rayN-Core.zip)
 
-[clash for windows x64](https://m.jdfx.cf/clash/Clash.for.Windows.Setup.0.16.3.exe)
+[clash for windows x64](https://wp.jdfx.cf/clash/Clash.for.Windows.Setup.0.16.3.exe)
 
-[clash for windows x86](https://m.jdfx.cf/clash/Clash.for.Windows.Setup.0.16.3.ia32.exe)
+[clash for windows x86](https://wp.jdfx.cf/clash/Clash.for.Windows.Setup.0.16.3.ia32.exe)
 
-[Clash.NET x64](https://m.jdfx.cf/clash/Clash.NET.1.2.3.x64.Setup.exe)
-[绿色版](https://m.jdfx.cf/Clash.NET.1.2.3.x64.7z)
-[运行环境](https://m.jdfx.cf/clash/windowsdesktop-runtime-5.0.7-win-x64.exe)
+[Clash.NET x64](https://wp.jdfx.cf/clash/Clash.NET.1.2.3.x64.Setup.exe)
+[绿色版](https://wp.jdfx.cf/Clash.NET.1.2.3.x64.7z)
+[运行环境](https://wp.jdfx.cf/clash/windowsdesktop-runtime-5.0.7-win-x64.exe)
 
-[Clash.NET x86](https://m.jdfx.cf/clash/Clash.NET.1.2.3.x86.Setup.exe)
-[绿色版](https://m.jdfx.cf/clash/Clash.NET.1.2.3.x86.7z)
-[运行环境](https://m.jdfx.cf/clash/windowsdesktop-runtime-5.0.7-win-x86.exe)
+[Clash.NET x86](https://wp.jdfx.cf/clash/Clash.NET.1.2.3.x86.Setup.exe)
+[绿色版](https://wp.jdfx.cf/clash/Clash.NET.1.2.3.x86.7z)
+[运行环境](https://wp.jdfx.cf/clash/windowsdesktop-runtime-5.0.7-win-x86.exe)
 
 #### Android
 
-[clash for android](https://m.jdfx.cf/clash/app-premium-universal-release.apk)
+[clash for android](https://wp.jdfx.cf/clash/app-premium-universal-release.apk)
 
-[v2rayng](https://m.jdfx.cf/v2ray/v2rayNG_1.6.13_arm64-v8a.apk)
+[v2rayng](https://wp.jdfx.cf/v2ray/v2rayNG_1.6.13_arm64-v8a.apk)
 
 
 
