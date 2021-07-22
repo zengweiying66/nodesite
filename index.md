@@ -52,3 +52,17 @@ https://m.jdfx.cf/Clash.yml
 已修复，请放心食用
 
 # TG频道和群组
+
+## 订阅地址
+
+
+V2ray订阅
+```
+https://m.jdfx.cf/sub.txt
+```
+
+Clash订阅
+```
+https://m.jdfx.cf/Clash.yml
+```
+
