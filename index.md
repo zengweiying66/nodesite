@@ -7,37 +7,37 @@
 
 V2ray订阅
 ```
-https://misakanode.cf/sub.txt
+https://m.jdfx.cf/sub.txt
 ```
 
 Clash订阅
 ```
-https://misakanode.cf/Clash.yml
+https://m.jdfx.cf/Clash.yml
 ```
 
 ## 软件下载
 
 #### Windows
 
-[v2rayn](https://misakanode.cf/v2ray/v2rayN-Core.zip)
+[v2rayn](https://m.jdfx.cf/v2ray/v2rayN-Core.zip)
 
-[clash for windows x64](https://misakanode.cf/clash/Clash.for.Windows.Setup.0.16.3.exe)
+[clash for windows x64](https://m.jdfx.cf/clash/Clash.for.Windows.Setup.0.16.3.exe)
 
-[clash for windows x86](https://misakanode.cf/clash/Clash.for.Windows.Setup.0.16.3.ia32.exe)
+[clash for windows x86](https://m.jdfx.cf/clash/Clash.for.Windows.Setup.0.16.3.ia32.exe)
 
-[Clash.NET x64](https://misakanode.cf/clash/Clash.NET.1.2.3.x64.Setup.exe)
-[绿色版](https://misakanode.cf/clash/Clash.NET.1.2.3.x64.7z)
-[运行环境](https://misakanode.cf/clash/windowsdesktop-runtime-5.0.7-win-x64.exe)
+[Clash.NET x64](https://m.jdfx.cf/clash/Clash.NET.1.2.3.x64.Setup.exe)
+[绿色版](https://m.jdfx.cf/Clash.NET.1.2.3.x64.7z)
+[运行环境](https://m.jdfx.cf/clash/windowsdesktop-runtime-5.0.7-win-x64.exe)
 
-[Clash.NET x86](https://misakanode.cf/clash/Clash.NET.1.2.3.x86.Setup.exe)
-[绿色版](https://misakanode.cf/clash/Clash.NET.1.2.3.x86.7z)
-[运行环境](https://misakanode.cf/clash/windowsdesktop-runtime-5.0.7-win-x86.exe)
+[Clash.NET x86](https://m.jdfx.cf/clash/Clash.NET.1.2.3.x86.Setup.exe)
+[绿色版](https://m.jdfx.cf/clash/Clash.NET.1.2.3.x86.7z)
+[运行环境](https://m.jdfx.cf/clash/windowsdesktop-runtime-5.0.7-win-x86.exe)
 
 #### Android
 
-[clash for android](https://misakanode.cf/clash/app-premium-universal-release.apk)
+[clash for android](https://m.jdfx.cf/clash/app-premium-universal-release.apk)
 
-[v2rayng](https://misakanode.cf/v2ray/v2rayNG_1.6.13_arm64-v8a.apk)
+[v2rayng](https://m.jdfx.cf/v2ray/v2rayNG_1.6.13_arm64-v8a.apk)
 
 
 ## 注意事项
@@ -51,7 +51,3 @@ https://misakanode.cf/Clash.yml
 已修复，请放心食用
 
 # TG频道和群组
-
-频道：[@misakanodailylife](https://t.me/misakanodailylife)
-
-群组：[@misakanetworkgroup](https://t.me/misakanetworkgroup)
