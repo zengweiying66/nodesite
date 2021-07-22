@@ -47,7 +47,7 @@ https://m.jdfx.cf/Clash.yml
 3. ~~目前Clash.NET在食用Heroku系列节点的时候，会全部出现Timeout，而v2ray没什么问题，目前无解~~ 
 
 具体速度看图，测速时间2021 7.22 16:25
-![](https://github.com/zengweiying66/nodesite/blob/gh-pages/1.png)
+![](image_https://github.com/zengweiying66/nodesite/blob/gh-pages/1.png)
 
 已修复，请放心食用
 
