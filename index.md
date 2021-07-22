@@ -46,7 +46,8 @@ https://m.jdfx.cf/Clash.yml
 2. 免费节点不保证可用性，如你需要稳定高质量节点，请左转付费机场
 3. ~~目前Clash.NET在食用Heroku系列节点的时候，会全部出现Timeout，而v2ray没什么问题，目前无解~~ 
 
-![](https://upload.cc/i1/2021/07/05/WadCQ9.png)
+具体速度看图，测速时间2021 7.22 16:25
+![](https://github.com/zengweiying66/nodesite/blob/gh-pages/1.png)
 
 已修复，请放心食用
 
