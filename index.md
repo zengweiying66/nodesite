@@ -53,7 +53,7 @@ https://m.jdfx.cf/Clash.yml
 
 # TG频道和群组
 
-## 订阅地址
+## 备用订阅地址
 
 
 V2ray订阅
@@ -65,4 +65,30 @@ Clash订阅
 ```
 https://m.jdfx.cf/Clash.yml
 ```
+
+## 软件下载
+
+#### Windows
+
+[v2rayn](https://m.jdfx.cf/v2ray/v2rayN-Core.zip)
+
+[clash for windows x64](https://m.jdfx.cf/clash/Clash.for.Windows.Setup.0.16.3.exe)
+
+[clash for windows x86](https://m.jdfx.cf/clash/Clash.for.Windows.Setup.0.16.3.ia32.exe)
+
+[Clash.NET x64](https://m.jdfx.cf/clash/Clash.NET.1.2.3.x64.Setup.exe)
+[绿色版](https://m.jdfx.cf/Clash.NET.1.2.3.x64.7z)
+[运行环境](https://m.jdfx.cf/clash/windowsdesktop-runtime-5.0.7-win-x64.exe)
+
+[Clash.NET x86](https://m.jdfx.cf/clash/Clash.NET.1.2.3.x86.Setup.exe)
+[绿色版](https://m.jdfx.cf/clash/Clash.NET.1.2.3.x86.7z)
+[运行环境](https://m.jdfx.cf/clash/windowsdesktop-runtime-5.0.7-win-x86.exe)
+
+#### Android
+
+[clash for android](https://m.jdfx.cf/clash/app-premium-universal-release.apk)
+
+[v2rayng](https://m.jdfx.cf/v2ray/v2rayNG_1.6.13_arm64-v8a.apk)
+
+
 
