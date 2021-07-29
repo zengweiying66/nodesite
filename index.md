@@ -31,6 +31,8 @@ https://m.jdfx.cf/Clash.yml
 
 [clash for windows x86](https://m.jdfx.cf/clash/Clash.for.Windows.Setup.0.16.3.ia32.exe)
 
+[clash for windows 汉化补丁](https://wp.jdfx.cf/clash/ClashForWindow%E6%B1%89%E5%8C%96%E5%8C%850.16.4.7z)
+
 [Clash.NET x64](https://m.jdfx.cf/clash/Clash.NET.1.2.3.x64.Setup.exe)
 [绿色版](https://m.jdfx.cf/Clash.NET.1.2.3.x64.7z)
 [运行环境](https://m.jdfx.cf/clash/windowsdesktop-runtime-5.0.7-win-x64.exe)
