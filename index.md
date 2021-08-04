@@ -63,6 +63,7 @@ https://m.jdfx.cf/Clash.yml
 3. ~~目前Clash.NET在食用部分节点的时候，会全部出现Timeout，而v2ray没什么问题，目前无解~~ 
 
 具体速度看图，测速时间2021 8.4 15:25
+速度仅供参考，实际速度快很多
 
 ![](https://wp.jdfx.cf/1.png)
 
