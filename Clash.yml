@@ -6,6 +6,7 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🏳️‍🌈 ️‍🌈 更新时间：2021-8-4, server: 185.108.106.21, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 官方QQ通知群:757210357, server: 81.19.209.120, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 网站：https://m.jdfx.cf, server: 89.238.130.251, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 🇬🇧 英国1, server: 217.138.222.53, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
   - {name: 🇦🇹 奥地利2, server: 194.37.98.211, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
@@ -32,6 +33,7 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 🏳️‍🌈 ️‍🌈 更新时间：2021-8-4
+      - 官方QQ通知群:757210357
       - 网站：https://m.jdfx.cf
       - 🇬🇧 英国1
       - 🇦🇹 奥地利2
@@ -58,6 +60,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🏳️‍🌈 ️‍🌈 更新时间：2021-8-4
+      - 官方QQ通知群:757210357
       - 网站：https://m.jdfx.cf
       - 🇬🇧 英国1
       - 🇦🇹 奥地利2
@@ -84,6 +87,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🏳️‍🌈 ️‍🌈 更新时间：2021-8-4
+      - 官方QQ通知群:757210357
       - 网站：https://m.jdfx.cf
       - 🇬🇧 英国1
       - 🇦🇹 奥地利2
@@ -109,6 +113,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - 🏳️‍🌈 ️‍🌈 更新时间：2021-8-4
+      - 官方QQ通知群:757210357
       - 网站：https://m.jdfx.cf
       - 🇬🇧 英国1
       - 🇦🇹 奥地利2
@@ -134,6 +139,7 @@ proxy-groups:
       - 🎯 全球直连
       - 🚀 节点选择
       - 🏳️‍🌈 ️‍🌈 更新时间：2021-8-4
+      - 官方QQ通知群:757210357
       - 网站：https://m.jdfx.cf
       - 🇬🇧 英国1
       - 🇦🇹 奥地利2
@@ -159,6 +165,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - 🏳️‍🌈 ️‍🌈 更新时间：2021-8-4
+      - 官方QQ通知群:757210357
       - 网站：https://m.jdfx.cf
       - 🇬🇧 英国1
       - 🇦🇹 奥地利2
@@ -185,6 +192,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🏳️‍🌈 ️‍🌈 更新时间：2021-8-4
+      - 官方QQ通知群:757210357
       - 网站：https://m.jdfx.cf
       - 🇬🇧 英国1
       - 🇦🇹 奥地利2
@@ -227,6 +235,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🏳️‍🌈 ️‍🌈 更新时间：2021-8-4
+      - 官方QQ通知群:757210357
       - 网站：https://m.jdfx.cf
       - 🇬🇧 英国1
       - 🇦🇹 奥地利2
